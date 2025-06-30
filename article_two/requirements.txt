@@ -1,0 +1,10 @@
+# This is the requirements file for the various libraries needed
+ollama
+lmstudio
+evaluate
+rouge_score
+bert_score
+torch
+transformers
+pandas
+openai
