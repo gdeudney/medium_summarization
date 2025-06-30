@@ -14,16 +14,14 @@ LOCAL_SERVER_TYPE = "LMSTUDIO"
 # --- IMPORTANT: Set the model name based on your server ---
 #
 # For OLLAMA:
-# Use the model tag you use in the terminal (e.g., 'phi3:medium', 'gemma:7b').
-# MODEL_NAME = 'phi3:medium' 
+# Use the model tag you use in the terminal (e.g., 'mistral-small:24b', 'gemma3:27b').
+# MODEL_NAME = 'gemma3:27b'
 #
 # For LM STUDIO:
 # The server uses a generic identifier for the currently loaded model.
 # This is typically 'local-model'. Check the LM Studio UI to be sure.
 MODEL_NAME = 'local-model' 
-#
-# Make sure to update MODEL_NAME to match your setup! If using LM Studio,
-# it should almost always be 'local-model'.
+
 
 TEMPERATURE = 0.1 # Keep it low for deterministic, repeatable outputs
 NUMBER_OF_RUNS = 5 # Number of times to generate a summary for each prompt to get a stable baseline
@@ -35,7 +33,7 @@ if LOCAL_SERVER_TYPE == "LMSTUDIO":
     client = openai.OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
     print("INFO: Configured to use LM Studio client (via OpenAI library).")
 elif LOCAL_SERVER_TYPE == "OLLAMA":
-    client = ollama.Client() # Uses default Ollama host
+    client = ollama.Client(host='http://localhost:11434') # Uses localhost
     print("INFO: Configured to use Ollama client.")
 else:
     raise ValueError("Invalid LOCAL_SERVER_TYPE. Please choose 'OLLAMA' or 'LMSTUDIO'.")
@@ -47,7 +45,7 @@ SOURCE_TEXT = """
 Photosynthesis is a process used by plants, algae, and certain bacteria to convert light energy into chemical energy, through a process that converts carbon dioxide and water into sugars (glucose) and oxygen. This process is crucial for life on Earth as it produces most of the planet's oxygen and serves as the primary source of energy for most ecosystems. The process occurs in two main stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). The light-dependent reactions, which occur in the thylakoid membranes of chloroplasts, capture energy from sunlight to produce ATP and NADPH. The Calvin cycle, which takes place in the stroma of the chloroplasts, then uses this ATP and NADPH to convert carbon dioxide into glucose. Factors like light intensity, carbon dioxide concentration, and temperature can significantly affect the rate of photosynthesis.
 """
 
-# This is our "gold standard" human-written summary. Our metrics will compare against this.
+# This is our "gold standard" human-written summary. Our metrics will compare against this. 
 REFERENCE_SUMMARY = "Photosynthesis converts light energy into chemical energy, producing glucose and oxygen from carbon dioxide and water. This two-stage process, consisting of light-dependent reactions and the Calvin cycle, is vital for Earth's oxygen supply and energy ecosystems. The rate is affected by light, CO2, and temperature."
 
 # --- Prompts ---
