@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects the core message of the source text, including the importance of evaluation for safety, compliance, and performance. It correctly identifies key elements such as automated metrics, LLM-as-a-judge, and human evaluation, without introducing any major inaccuracies or hallucinations."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It logically organizes the information into coherent sections, making it easy to understand the flow from methodologies to critical considerations."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, eliminating any unnecessary details or fluff. Every word contributes to conveying the essential points without redundancy."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the critical points from the source text, including automated metrics, LLM-as-a-judge, human evaluation, intrinsic/extrinsic evaluation, bias, reliability, efficiency, observability, and user satisfaction. It comprehensively addresses the main ideas without missing any essential concepts."
+  },
+  "overall_assessment": "The summary is an excellent representation of the source text, demonstrating high accuracy, clarity, conciseness, and coverage. It effectively distills the key points while maintaining the original intent and scope."
+}

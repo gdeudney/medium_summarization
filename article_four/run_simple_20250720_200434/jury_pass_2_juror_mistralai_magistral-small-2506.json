@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary accurately reflects most key facts from the source text, such as the 50% reduction in cardiovascular disease risk, the 20-year study duration, and the 4-7 weekly sauna sessions. However, it introduces an irrelevant detail about Mars' Gale Crater, which is not present in the original source text. This minor hallucination slightly detracts from its faithfulness."
+  },
+  "coherence": {
+    "rank": 4,
+    "reasoning": "The summary is well-structured and logically flows from one point to another. The inclusion of the irrelevant Mars detail disrupts the coherence slightly, but the rest of the summary is clear and coherent."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but could be more direct by removing the unrelated Mars reference. The rest of the content is focused and avoids unnecessary fluff."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary captures all the main points from the source text, including the study's findings, the mechanism (heat stress, endorphins), and the frequency of sauna use. The Mars detail is extraneous but does not affect coverage of the core topic."
+  },
+  "overall_assessment": "The summary is mostly accurate and well-written but suffers from a minor hallucination (Mars reference) that slightly reduces its faithfulness and conciseness. Overall, it is a strong summary with room for minor refinement."
+}

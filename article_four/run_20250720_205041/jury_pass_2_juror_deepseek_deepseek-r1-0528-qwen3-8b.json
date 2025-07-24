@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the source text: the University of Helsinki study, the 20-year duration, the 2,000 participants, the 50% risk reduction, the role of heat stress in improving blood vessel function and lowering blood pressure, the frequency-dependent benefits (4-7 sessions/week), and the endorphin release contributing to heart health. There are no inaccuracies, hallucinations, or omissions of major facts."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It logically organizes the information starting with the study details, followed by the mechanisms of benefit, and concluding with the physiological benefits. The language is precise and the flow is seamless, making it easy to understand."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct. It eliminates all fluff and redundancy while retaining every essential element from the source text. Each sentence serves a clear purpose and contributes to conveying the core information efficiently."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the most critical points and main ideas from the source text. It includes the study's origin, methodology, key findings (risk reduction percentage and frequency effect), the primary mechanisms (heat stress, endorphins), and the overall health benefits. There are no important nuances or secondary points missed."
+  },
+  "overall_assessment": "The summary is an excellent representation of the source text. It is factually precise, exceptionally well-written, concise, and comprehensive, fully meeting the requirements for a high-quality machine-generated summary."
+}

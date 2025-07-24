@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all facts from the original source texts. It correctly attributes the study about plastic nanoparticles crossing the blood-brain barrier in mice to *Nature Communications* and the University of Vienna research on rapid brain accumulation via food/water. It also accurately states that health risks of microplastics/nanoplastics are under investigation with preliminary links to inflammation and neurodegenerative diseases, mirroring Article 3. No contradictions or fabrications are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear and logically structured. It connects the studies sequentially, explaining their findings, implications, and broader context without confusion. The flow is smooth, with transitions like 'These findings' and 'While' effectively linking ideas. Sentences are well-constructed and easy to follow."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct. Every sentence directly conveys essential information without redundancy or filler. It combines key details from all three articles efficiently, such as merging the two studies on nanoparticle accumulation into a single, focused statement while retaining specific metrics (e.g., 'within two hours')."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "All critical points from the source texts are fully captured. The summary includes the blood-brain barrier crossing (Article 1), rapid brain accumulation (Article 2), and the ongoing investigation into health risks with links to inflammation/neurodegenerative diseases (Article 3). No essential concepts are omitted or misrepresented."
+  },
+  "overall_assessment": "The summary is flawless in faithfulness, coherent, concise, and comprehensive. It accurately synthesizes all key findings from the source texts without adding extraneous information or omitting critical details."
+}

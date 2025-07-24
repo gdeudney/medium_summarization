@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary is mostly accurate but contains an irrelevant addition. It correctly states that regular sauna use can reduce cardiovascular disease risk by up to 50%, improves blood vessel function and lowers blood pressure, tracks 2,000 men over 20 years, shows 4-7 weekly sessions are most effective, and mentions endorphin release for heart health. However, it includes an unrelated detail about Mars' Gale Crater water presence, which is not in the original source text. This makes it less faithful than it could be, though the core facts remain largely accurate."
+  },
+  "coherence": {
+    "rank": 3,
+    "reasoning": "The summary has a generally logical flow from the study's findings to its mechanisms and benefits. It is understandable and follows a reasonable structure, though the addition of the Mars reference creates a slight disruption in the flow. Overall, it maintains coherence but could be better organized."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but contains some redundancy and an unnecessary detail. While it avoids excessive fluff and covers the main points efficiently, the addition of the Mars reference adds unnecessary words, and the summary could be more direct in its presentation of the information."
+  },
+  "coverage": {
+    "rank": 3,
+    "reasoning": "The summary captures most of the essential concepts from the source, including risk reduction, blood vessel function benefits, optimal frequency, and endorphin release. However, it misses some specific details like the study's duration (20 years), the researchers' nationality (Finnish), and the attribution to a recent Finnish study. While it covers the main ideas, it misses some important nuances from the original text."
+  },
+  "overall_assessment": "The summary is mostly accurate but contains an irrelevant addition and misses some specific details from the original source text, making it moderately faithful while being reasonably coherent and concise with good coverage of main ideas."
+}

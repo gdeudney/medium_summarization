@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all factual claims from the source texts. It correctly states that the Curiosity Rover found evidence of megafloods (Article 1), long-lasting lakes/rivers (Article 2), and sediment layer analysis confirming flooding (Article 3). The connection between flooding and a thicker atmosphere/life-sustaining conditions is directly supported by Article 3. No contradictions or fabrications are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear and logically structured. It connects related findings (megafloods, lakes, sediment analysis) in a sequential manner, explains their significance to Mars' habitability, and maintains a fluent flow without abrupt transitions or confusing phrasing."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every sentence directly contributes to the summary's purpose. Redundant information is absent, and complex ideas are expressed succinctly (e.g., 'spanning millions of years' instead of elaborating on timeframes). The summary avoids filler while maintaining precision."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "All critical points from the three source texts are fully captured: megafloods (Article 1), long-lasting water systems (Article 2), sediment layer analysis (Article 3), and the implications for Mars' atmosphere and habitability. The summary integrates these elements without omitting essential details."
+  },
+  "overall_assessment": "The summary is factually accurate, well-structured, succinct, and comprehensive. It perfectly aligns with the source texts while maintaining clarity and logical flow, making it a high-quality synthesis of the provided information."
+}

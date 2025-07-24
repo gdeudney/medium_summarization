@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all factual elements from the source text: it correctly attributes the study to Finnish institutions (including the University of Helsinki), mentions the 20-year study of 2,000 men, states the 50% risk reduction for cardiovascular disease, explains the mechanisms (heat stress improving blood vessel function and lowering blood pressure), notes the 4–7 sessions per week frequency, and includes the endorphin release and relaxation aspect. No contradictions or fabrications are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear and well-structured. It logically connects the study's findings, mechanisms, and implications in a seamless flow. Each sentence builds on the previous one, maintaining a natural progression from the study's context to its results and supporting details. The language is fluent and easy to understand."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, with no redundant or irrelevant details. It condenses all critical information from the source text into a compact form, ensuring every sentence directly contributes to conveying the study's key points without unnecessary elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all essential concepts from the source text: the study's institution, methodology (20-year follow-up of 2,000 men), risk reduction percentage, mechanisms (blood vessel function, blood pressure, endorphins), and the frequency-dependent benefits. It includes all main ideas and nuances without omission."
+  },
+  "overall_assessment": "The summary excels in faithfulness, coherence, conciseness, and coverage, accurately and efficiently reflecting the source text's findings and structure without errors or omissions."
+}

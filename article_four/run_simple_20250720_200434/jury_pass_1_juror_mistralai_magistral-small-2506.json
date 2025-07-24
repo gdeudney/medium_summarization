@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source texts: the evidence of ancient megafloods, their likely cause (meteor impact melting ice), the presence of long-lasting lakes and river systems, and the implications for Mars' early atmosphere and habitability. No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from one idea to the next. It begins with the discovery of megafloods, then connects to the broader implications for Mars' past environment. The language is clear and concise."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy and fluff. Every sentence contributes essential information without unnecessary elaboration. The length is optimal for capturing the core findings."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary covers all critical points from the source texts: the megafloods, their likely cause, the long-term presence of water, and the broader implications for Mars' atmosphere and habitability. No major nuances or secondary points are omitted."
+  },
+  "overall_assessment": "The summary is excellent across all criteria. It is factually accurate, well-structured, concise, and comprehensive."
+}

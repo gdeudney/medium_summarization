@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects the key facts from all three source articles: the discovery of ancient megafloods triggered by meteor impacts, the presence of long-lasting lakes and river systems, the analysis of sediment layers confirming flooding, the thicker atmosphere hypothesis, and the implications for Mars' past habitability. There are no inaccuracies, hallucinations, or omissions of major facts."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It presents information in a logical sequence: starting with the main findings, explaining the causes and evidence, and concluding with the broader implications. The language is precise and easy to understand, with smooth transitions between ideas."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct. It eliminates all fluff, redundancy, and irrelevant details while retaining every essential piece of information from the source texts. Every word contributes to conveying the core findings and their significance."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the most critical points and main ideas from the three source articles. It includes the key discoveries (megafloods, lakes/rivers, sediment analysis), the proposed mechanisms (meteor impacts), the supporting evidence, the atmospheric implications, and the significance for understanding Mars' past habitability. No essential concepts or main ideas are omitted."
+  },
+  "overall_assessment": "The summary is an excellent representation of the source material. It is factually accurate, exceptionally well-written, concise, and comprehensive, capturing all essential information without any inaccuracies or unnecessary elaboration."
+}

@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source text, including the meteor impact triggering megafloods, the presence of long-lasting lakes and river systems, and the evidence of a thicker atmosphere and liquid water. No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from one idea to the next. It is clear, concise, and easy to understand, with no awkward phrasing or disjointed sentences."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy and fluff, presenting only the most essential information in a compact form. Every sentence contributes meaningfully to the overall message."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source text, including the megafloods, long-lasting water bodies, and the implications for Mars' past habitability. No important details are omitted."
+  },
+  "overall_assessment": "The summary is excellent in all aspects: it is faithful, coherent, concise, and comprehensive. It perfectly distills the original source text without losing any essential information or clarity."
+}

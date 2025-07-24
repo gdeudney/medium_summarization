@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 2,
+    "reasoning": "The summary contains a major fabrication by introducing 'evidence of prolonged water presence in Mars' Gale Crater,' which is entirely unrelated to the original source text about sauna health benefits. This contradicts the source and adds irrelevant, false information. The rest of the summary accurately reflects the study's findings, but this single contradiction significantly undermines factual accuracy."
+  },
+  "coherence": {
+    "rank": 3,
+    "reasoning": "The summary is mostly logical and well-structured, with clear connections between the study's findings, mechanisms (blood vessel function, blood pressure, endorphins), and frequency of use. However, the abrupt and unrelated mention of Mars' Gale Crater disrupts the flow, making the conclusion incoherent and confusing despite the otherwise smooth progression of ideas."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise, capturing key details without excessive redundancy. However, the inclusion of the Mars-related sentence adds irrelevant information that serves no purpose in the context of the original text, making it less succinct than it could be."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all critical points from the source text: the University of Helsinki study, the 50% risk reduction for cardiovascular disease, the 20-year follow-up of 2,000 men, the link between heat stress and blood vessel function/blood pressure, the optimal 4-7 sessions/week, and the endorphin-mediated relaxation contributing to heart health. All essential concepts are included without omission."
+  },
+  "overall_assessment": "The summary is mostly accurate and covers all key points but contains a major hallucination about Mars' Gale Crater, which severely impacts faithfulness and coherence. The irrelevant addition detracts from conciseness, though the core content remains strong."
+}

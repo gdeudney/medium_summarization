@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the source text, including the University of Helsinki study, the 20-year duration, the 2,000 participants, the 50% risk reduction, the role of heat stress in improving blood vessel function and lowering blood pressure, the frequency of sauna use (4-7 times per week), the endorphin release mechanism, and the overall contribution to heart health. There are no inaccuracies, hallucinations, or omissions of critical facts."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It logically progresses from the study's findings to the mechanisms explaining the benefits, and concludes with the physiological effects (endorphins) and overall health contribution. The language is precise and the flow is seamless, making it easy to understand."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct. It includes only the essential information derived from the source text without any unnecessary elaboration, filler words, or redundant details. Every sentence and phrase serves a clear purpose in conveying the core findings and mechanisms."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the most critical points and main ideas from the source text: the specific study (University, duration, participants, risk reduction), the primary mechanism (heat stress), the dose-response relationship (frequency of use), the secondary mechanism (endorphins), and the overall health benefit. No key information or essential concepts from the source are omitted."
+  },
+  "overall_assessment": "The summary is an excellent representation of the source text. It is perfectly faithful, coherent, concise, and comprehensive, capturing all essential information accurately and presenting it in a clear, logical, and succinct manner."
+}

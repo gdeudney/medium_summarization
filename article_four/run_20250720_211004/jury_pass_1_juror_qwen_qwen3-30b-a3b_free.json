@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all factual claims from the source texts. It correctly attributes the discovery of ancient megafloods (Article 1), long-lasting lakes/rivers (Article 2), and sediment layer analysis confirming flooding (Article 3). The connection between flooding and a thicker atmosphere/liquid water (Article 3) is preserved without adding unsupported claims."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is logically structured, with clear transitions between ideas. It connects the rover's findings to their implications for Mars' habitability in a fluent, easy-to-follow sequence. All sentences are semantically linked and maintain a consistent focus on the scientific conclusions."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every sentence directly contributes to the main points. There is no redundant phrasing or extraneous information. Key details like '4 billion years ago' and 'millions of years' are included precisely where relevant, with no filler words or unnecessary elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively includes all critical elements from the source texts: megafloods (Article 1), persistent water systems (Article 2), sediment layer analysis (Article 3), atmospheric implications, and habitability significance. It integrates secondary details like 'intense flooding events' and 'thicker atmosphere' without omitting essential information."
+  },
+  "overall_assessment": "Flawless in all aspects, accurately reflecting the source texts with clear structure and comprehensive coverage."
+}

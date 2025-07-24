@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all three source texts without introducing contradictions or fabrications. It correctly attributes the blood-brain barrier crossing to *Nature Communications* (Article 1), the two-hour accumulation in mice to the University of Vienna (Article 2), and the link to inflammation/neurodegenerative diseases with preliminary evidence (Article 3). The claim about 'long-term health impacts from environmental plastic contamination' is a reasonable extrapolation of the concerns raised in the sources."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is logically structured, with clear transitions between ideas. It begins by stating the general finding, then specifies the studies and their results, followed by the implications. The sentences flow smoothly and maintain a consistent focus on the topic."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is succinct, with no redundant or extraneous information. Each sentence directly conveys a key point from the sources, and all critical details are included without unnecessary elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "All three articles are fully represented. The summary captures the blood-brain barrier crossing (Article 1), the two-hour accumulation via ingestion (Article 2), and the inflammation/neurodegenerative disease link with ongoing research (Article 3). It also synthesizes the broader concern about environmental plastic contamination, which aligns with the sources' implications."
+  },
+  "overall_assessment": "Flawless in accuracy, clear and well-structured, succinct, and comprehensive in covering key findings."
+}

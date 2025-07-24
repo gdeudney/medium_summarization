@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary accurately reflects the study's findings about sauna use reducing cardiovascular disease risk by 50%, tracking 2,000 men over 20 years, and linking benefits to heat stress, blood vessel function, blood pressure, and endorphin release. However, it introduces an irrelevant statement about 'prolonged water presence in Mars' Gale Crater,' which is not mentioned in the original text and constitutes a hallucination."
+  },
+  "coherence": {
+    "rank": 3,
+    "reasoning": "The summary is mostly logical and easy to understand, with clear progression from the study's main claim to supporting mechanisms. However, the abrupt addition of the Mars-related sentence disrupts the flow and creates confusion, making the structure somewhat disjointed despite the coherent presentation of the core content."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary effectively condenses the key points without excessive redundancy. However, the inclusion of the Mars-related sentence adds unnecessary and irrelevant information, reducing its overall conciseness. The rest of the content is succinct and purposeful."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively captures all critical points from the original text: the 50% risk reduction, the 20-year study of 2,000 men, the frequency of sessions (4-7 per week), the mechanisms (blood vessel function, blood pressure, endorphin release), and the connection to heart health. No essential information from the source is omitted."
+  },
+  "overall_assessment": "The summary is mostly accurate and covers all key points but includes an irrelevant and fabricated statement about Mars, which undermines faithfulness and coherence. While the core content is well-structured and concise, the addition of extraneous information detracts from its quality."
+}

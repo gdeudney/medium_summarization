@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source text without any fabrications or omissions. It correctly mentions the study in *Nature Communications*, the University of Vienna research, the two-hour accumulation time, and the potential health risks (inflammation and neurodegenerative diseases). No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flowing, and easy to follow. It introduces the topic, presents evidence, and concludes with implications. The language is clear and concise, with no awkward phrasing or disjointed ideas."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy and fluff, including only essential details. Every sentence adds value, and there is no unnecessary information. The length is optimal for covering the main points without being overly verbose."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source text: the crossing of the blood-brain barrier, the ingestion pathway, the rapid accumulation in the brain, and the potential health risks. No major nuances or secondary points are omitted."
+  },
+  "overall_assessment": "The summary is excellent in all aspects—faithful, coherent, concise, and comprehensive. It perfectly distills the original source text without losing accuracy or clarity."
+}

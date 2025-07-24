@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary perfectly reflects the facts from the source text. It accurately captures all key information including the study's origin (University of Helsinki/Finnish institutions), the study details (2,000 men, 20-year period), the cardiovascular risk reduction (up to 50%), the mechanisms of benefit (heat stress improving blood vessel function and lowering blood pressure), the optimal frequency (4-7 sessions per week), and the psychological benefits (endorphin release, relaxation, heart health). There are no major fabrications or contradictions with the original source."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It follows a logical progression from research institutions to study details, then to benefits, and finally to mechanisms. Each sentence builds naturally on the previous one, creating a smooth flow of information that is easy to follow and understand."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary is very good but could be slightly more direct. While it effectively conveys all essential information without excessive fluff, it contains slightly more words than necessary for perfect conciseness. Every word serves a purpose, but there's room for minor streamlining without losing information."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary provides excellent coverage of all essential concepts from the source text. It captures all critical points including the study's findings, methodology, mechanisms of benefit, optimal frequency, and psychological health benefits. No key information from any of the three source paragraphs is missed."
+  },
+  "overall_assessment": "The summary is comprehensive, accurate, and well-structured. It effectively communicates all key information from the source text with high faithfulness, coherence, and coverage, though it could be slightly more concise."
+}

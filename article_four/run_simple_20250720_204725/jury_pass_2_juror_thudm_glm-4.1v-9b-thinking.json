@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary is mostly accurate but contains a major fabrication. It correctly captures the key facts about the University of Helsinki study (reducing cardiovascular disease risk by up to 50%, following 2,000 men over 20 years, heat stress improving blood vessel function, 4-7 weekly sessions being most effective, and endorphin release contributing to heart health). However, it incorrectly adds information about Mars' Gale Crater water presence, which is not mentioned in the original source text. This addition constitutes a major fabrication that contradicts the source's focus on human health benefits."
+  },
+  "coherence": {
+    "rank": 3,
+    "reasoning": "The summary is understandable but has some awkward phrasing and structure. The flow is generally logical, moving from the study's main finding to specific mechanisms and benefits, though the addition of the Mars Gale Crater information creates an abrupt shift in context. The summary could be more naturally structured without the extraneous Mars reference."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but includes unnecessary information. While it effectively summarizes the key findings about sauna health benefits, it contains redundancy and includes the irrelevant Mars Gale Crater reference that doesn't serve the human health context. The summary could be more direct without this extraneous detail."
+  },
+  "coverage": {
+    "rank": 3,
+    "reasoning": "The summary captures most of the essential concepts from the source, including the study's main finding, methodology, mechanisms of benefit, and frequency effects. However, it misses some nuances like the explicit connection between endorphin release and heart health being a direct contributor to overall heart health as stated in the source. The coverage is good but not comprehensive of all essential concepts."
+  },
+  "overall_assessment": "The summary is moderately effective but contains inaccuracies and includes irrelevant information, making it less than ideal for faithful representation of the source text."
+}

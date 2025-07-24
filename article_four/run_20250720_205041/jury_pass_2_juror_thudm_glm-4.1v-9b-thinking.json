@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 4,
+    "reasoning": "The summary is mostly factually accurate compared to the source text. It correctly captures all major facts including the University of Helsinki study, the 2,000 men over 20-year period, the 50% risk reduction, the mechanism of heat stress improving blood vessel function and lowering blood pressure, the optimal frequency of 4-7 sessions per week, and the endorphin release benefits. While it includes some connecting phrases that weren't in the original text, there are no major fabrications or contradictions. The summary maintains the core information from the source text."
+  },
+  "coherence": {
+    "rank": 4,
+    "reasoning": "The summary is exceptionally clear and well-structured. It presents information logically with smooth transitions between points. The flow moves naturally from the study's origin and purpose, to the findings about risk reduction, then to the mechanism of benefit, optimal frequency, and finally the additional health benefits. The language is straightforward and easy to understand, making the information accessible without confusion."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but contains some redundancy and filler phrases. While it avoids excessive wordiness, it includes connecting phrases like 'Research from Finnish institutions, including...' and 'further supporting its role...' that aren't strictly necessary for conveying the core information. The summary could be more direct in some places without losing essential content, though it doesn't contain excessive fluff."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary provides excellent coverage of all essential concepts from the source text. It captures the main ideas about the study's findings, the mechanism of benefit, optimal sauna frequency, and additional health benefits. While it doesn't miss any key information, it doesn't include some of the more specific details about the endorphin release mechanism that are mentioned in the source text. Overall, it effectively captures the critical points and main ideas."
+  },
+  "overall_assessment": "The summary is generally accurate, well-structured, and comprehensive, though it could be slightly more concise. It effectively communicates the key findings from the original source text with good clarity and logical flow."
+}

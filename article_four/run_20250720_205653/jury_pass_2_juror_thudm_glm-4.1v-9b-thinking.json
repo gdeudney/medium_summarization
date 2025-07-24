@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the original source text. It correctly states that regular sauna use reduces cardiovascular disease risk by up to 50%, mentions the 2,000 men 20-year study, describes how heat stress improves blood vessel function and lowers blood pressure, notes the 4-7 sessions per week frequency benefit, and includes the endorphin release and relaxation benefits. There are no major fabrications or contradictions with the source material; all critical information from the original text is preserved with appropriate wording adjustments."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary demonstrates exceptional clarity and logical structure. It presents information in a natural, flowing sequence that follows the original source's structure: introducing the research findings, describing the study methodology, explaining the health benefits, detailing optimal frequency, and concluding with additional health benefits. The language is clear, well-organized, and easy to follow without any awkward transitions or confusing elements."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary is quite concise while maintaining comprehensive coverage. It avoids unnecessary fluff or redundancy, including all essential information from the source text. While it contains slightly more detail than a minimal summary might have, it remains direct and focused, with every paragraph serving a clear purpose related to the original source's key points. Some minor elaboration occurs, but overall it maintains good conciseness."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary provides excellent coverage of all essential concepts from the source text. It captures the main ideas including the study's findings (50% risk reduction), methodology (2,000 men, 20-year study), mechanisms of benefit (heat stress improving blood vessel function and lowering blood pressure), optimal frequency (4-7 sessions per week), and additional health benefits (endorphin release, relaxation, heart health). No critical points from the original source are missed, and all main ideas are effectively communicated."
+  },
+  "overall_assessment": "The summary demonstrates high quality with perfect faithfulness, exceptional coherence, good conciseness, and excellent coverage. It effectively communicates all key information from the original source text in a clear, well-structured manner while maintaining accuracy and precision."
+}
