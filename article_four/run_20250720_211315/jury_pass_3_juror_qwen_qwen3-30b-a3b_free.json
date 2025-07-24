@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all factual claims from the source texts. It correctly attributes the blood-brain barrier crossing to *Nature Communications* (Article 1), the two-hour accumulation via ingestion to the University of Vienna (Article 2), and the link to inflammation/neurodegenerative diseases from Article 3. No contradictions or fabrications are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is logically structured, with clear transitions between ideas. It connects the studies to their findings and concludes with a synthesized statement about health risks. The flow is smooth, and the language is precise and easy to follow."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every sentence in the summary directly contributes to the main points. There is no redundancy or filler. Key details from all three articles are condensed into a tight, focused narrative without unnecessary elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively captures all critical elements: the blood-brain barrier crossing (Article 1), rapid brain accumulation via ingestion (Article 2), and the preliminary health risks (Article 3). It also synthesizes the broader implication of environmental contamination, which aligns with the collective concerns expressed in the sources."
+  },
+  "overall_assessment": "The summary is factually accurate, well-structured, succinct, and fully encompasses the core findings and implications of the original source texts. It effectively synthesizes information without introducing errors or unnecessary details."
+}

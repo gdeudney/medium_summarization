@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source texts: the megafloods triggered by meteor impacts (Article 1), the long-lasting lakes and river systems (Article 2), and the intense flooding events (Article 3). No fabrications or contradictions are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from one idea to the next. It clearly connects the evidence of water activity (megafloods, lakes, rivers) to the broader hypothesis about Mars' past habitability."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is succinct, with no redundant or irrelevant details. Every sentence directly supports the main claim about Mars' water activity and habitability."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source texts: the timing (4 billion years ago), the triggers (meteor impacts), the duration (millions of years), and the broader implications (thicker atmosphere, liquid water). No essential information is omitted."
+  },
+  "overall_assessment": "The summary is excellent. It is faithful, coherent, concise, and comprehensive, perfectly reflecting the source texts without any inaccuracies or gaps."
+}

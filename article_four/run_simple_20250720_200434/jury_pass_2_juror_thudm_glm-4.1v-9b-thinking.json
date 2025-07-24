@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary is mostly accurate but contains a major inaccuracy - it includes information about Mars' Gale Crater (which is not mentioned in the original source text). The rest of the information about sauna use reducing cardiovascular disease risk by up to 50%, the study methodology, heat stress benefits, frequency recommendations, and endorphin release for heart health is factually accurate to the source text."
+  },
+  "coherence": {
+    "rank": 4,
+    "reasoning": "The summary is exceptionally clear and well-structured, with a logical flow that moves from the main finding to mechanisms, then to frequency effects, and finally to psychological benefits. The language is fluent and easy to understand, though the addition of the Mars reference creates a slight disruption in the overall coherence."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but could be more direct. While it avoids excessive fluff, it includes the irrelevant Mars reference which adds unnecessary length. The core information about sauna benefits is presented efficiently, though some redundancy could be removed."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary captures most essential concepts from the source text, including the main finding about cardiovascular disease risk reduction, study methodology, benefits of heat stress, optimal frequency, and endorphin-related health benefits. However, it misses the specific attribution to 'recent Finnish study' for the endorphin benefits and includes the irrelevant Mars reference, which slightly diminishes its coverage of source material."
+  },
+  "overall_assessment": "The summary is generally effective but contains an irrelevant addition about Mars' Gale Crater that compromises its faithfulness. While it maintains good coherence and reasonable conciseness, it could be improved by removing the extraneous Mars reference to enhance factual accuracy."
+}

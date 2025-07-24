@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 2,
+    "reasoning": "The summary contains a major fabrication by introducing a completely unrelated claim about 'prolonged water presence in Mars' Gale Crater, which is not mentioned in the original source text. This contradicts the source and adds irrelevant information, though the core details about the University of Helsinki study, cardiovascular risk reduction, blood vessel function, blood pressure, session frequency, and endorphin release are accurate."
+  },
+  "coherence": {
+    "rank": 3,
+    "reasoning": "The summary is mostly logical and easy to understand, but the abrupt addition of the Mars-related sentence disrupts the flow and creates confusion. The rest of the content is well-structured, connecting the study's findings to health benefits without major issues."
+  },
+  "conciseness": {
+    "rank": 3,
+    "reasoning": "The summary is reasonably concise but includes an irrelevant sentence about Mars' Gale Crater, which adds unnecessary filler. The rest of the content is direct and avoids redundancy, though this extraneous detail slightly reduces its overall succinctness."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source text: the study's institution, the 50% risk reduction, the 20-year follow-up of 2,000 men, the link between heat stress and blood vessel function/blood pressure, the optimal 4-7 sessions per week, and the endorphin release contributing to heart health. No essential information from the source is omitted."
+  },
+  "overall_assessment": "The summary is mostly accurate but includes a significant hallucination about Mars' Gale Crater, which undermines its faithfulness. While coherence and conciseness are affected by this error, the core coverage of the study's findings is comprehensive and precise."
+}

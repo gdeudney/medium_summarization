@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately captures all key points from the original text without introducing inaccuracies or omissions. It faithfully represents the importance of evaluation, the specific metrics discussed (e.g., BERTScore, METEOR), and the broader considerations like bias, reliability, and user satisfaction. No critical details are misrepresented or exaggerated."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from one section to another. It maintains clarity and coherence by organizing content into clear subsections (e.g., 'Automated Metrics', 'LLM-as-a-Judge Methodology') and using transitions to connect ideas. The language is concise and professional, avoiding redundancy or awkward phrasing."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is highly concise, omitting fluff and focusing only on essential details. It avoids repetition and irrelevant tangents, presenting information in a tight, efficient manner. Every sentence serves a clear purpose, and there is no unnecessary elaboration or filler."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all major aspects of the original text, including safety, compliance, automated metrics, human evaluation, and additional considerations like bias and efficiency. No critical subtopic (e.g., Chain-of-Thought prompting, intrinsic vs. extrinsic evaluation) is omitted, and the summary maintains the original's depth and breadth."
+  },
+  "overall_assessment": "The summary is flawless. It is factually accurate, coherent, concise, and covers all critical points from the original text without introducing errors or omissions. It serves as an excellent reference-free evaluation, meeting all criteria at the highest level."
+}

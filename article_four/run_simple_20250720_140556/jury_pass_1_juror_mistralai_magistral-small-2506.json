@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source articles: the megafloods in Gale Crater (~4 billion years ago), the meteor impact hypothesis, the presence of lakes and river systems, and the implications for Mars' early atmosphere and habitability. No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flowing from evidence (megafloods) to implications (water presence, habitability). Sentences are clear and grammatically sound."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every sentence contributes essential information without redundancy. The summary efficiently condenses the source into a single coherent paragraph."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "All critical points from the source are included: megafloods, meteor impact, lakes/river systems, and Mars' early conditions. No major omissions."
+  },
+  "overall_assessment": "The summary is excellent—faithful, coherent, concise, and comprehensive. It perfectly distills the source without loss of meaning."
+}

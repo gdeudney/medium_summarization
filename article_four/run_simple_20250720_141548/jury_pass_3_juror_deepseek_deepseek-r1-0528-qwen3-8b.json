@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the source texts: the studies (Nature Communications and University of Vienna), the mechanism (ingestion via food/water), the findings (crossing blood-brain barrier, accumulation), the concern (neurological effects in humans), and the ongoing research (health risks, inflammation, neurodegenerative diseases). There are no inaccuracies, hallucinations, or omissions of major facts."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It logically progresses from the studies to their findings and implications, using smooth transitions. The language is precise and easy to understand."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct. It efficiently combines information from all three source texts without any unnecessary words, redundancies, or irrelevant details. Every piece of information included is essential."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the most critical points and main ideas from the source texts: the existence and locations of the studies, the nature of the findings (mouse studies, ingestion mechanism, rapid accumulation), the human implications, and the status of health risk research. It covers the essential concepts comprehensively."
+  },
+  "overall_assessment": "The summary is an excellent representation of the source texts. It is highly factual, well-written, concise, and comprehensive."
+}

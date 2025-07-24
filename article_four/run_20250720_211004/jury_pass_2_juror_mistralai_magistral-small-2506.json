@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the source text, including the study's institution (University of Helsinki), sample size (2,000 men), duration (20 years), risk reduction (50%), frequency of sauna use (4-7 sessions per week), and mechanisms (heat stress, blood vessel function, endorphin release). No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flowing, and easy to follow. It introduces the study, presents findings, explains mechanisms, and concludes with implications—all in a coherent manner."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, omitting no essential details while avoiding redundancy. Every sentence adds value without fluff."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source: study details, benefits, mechanisms, and frequency effects. No important nuances or secondary points are omitted."
+  },
+  "overall_assessment": "The summary is flawless in faithfulness, coherence, conciseness, and coverage. It perfectly distills the source text without loss of accuracy or clarity."
+}

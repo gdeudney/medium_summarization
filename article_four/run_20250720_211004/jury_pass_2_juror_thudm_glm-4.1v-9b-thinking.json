@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary perfectly reflects the facts from the source text. It accurately captures all key information including the study's origin (University of Helsinki), methodology (2,000 men over 20 years), main finding (50% reduction in cardiovascular disease risk), mechanisms (heat stress improving blood vessel function and lowering blood pressure), optimal frequency (4-7 sessions per week), and additional benefits (endorphin release and relaxation). There are no fabrications or contradictions with the original source."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It presents information in a logical flow that starts with the main finding, provides study details, explains the mechanisms, discusses frequency effects, and concludes with additional health benefits. The language is easy to understand and the structure follows a natural progression of information."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary is reasonably concise but could be slightly more direct. While it avoids excessive fluff and redundancy, it includes some connecting phrases that could be streamlined. Every word serves a purpose, but there's room for minor improvements in conciseness without losing essential information."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary provides excellent coverage of all essential concepts from the source text. It captures the main ideas including the study's findings, methodology, mechanisms of benefit, optimal usage frequency, and additional health benefits related to sauna use. No key information from the original source is missed."
+  },
+  "overall_assessment": "The summary is a high-quality, accurate, and comprehensive representation of the source text. It demonstrates strong faithfulness, coherence, and coverage while maintaining good conciseness."
+}

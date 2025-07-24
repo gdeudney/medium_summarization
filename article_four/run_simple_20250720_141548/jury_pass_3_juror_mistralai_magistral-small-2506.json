@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source text: the study in 'Nature Communications' about nanoparticles crossing the blood-brain barrier in mice, the University of Vienna research on rapid accumulation in the brain, and the potential health risks (inflammation and neurodegenerative diseases). No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from study findings to implications (rapid brain entry) to potential health risks. The language is clear and professional, with no awkward phrasing or confusion."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is highly concise, omitting all redundancy while retaining all essential information. Every sentence serves a clear purpose, and there is no unnecessary detail."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source: the two studies (Nature and Vienna), the mechanism (crossing the barrier/rapid accumulation), and the health implications (inflammation and neurodegenerative diseases). No key information is omitted."
+  },
+  "overall_assessment": "The summary is excellent—faithful, coherent, concise, and comprehensive. It perfectly distills the source text without loss of accuracy or clarity."
+}

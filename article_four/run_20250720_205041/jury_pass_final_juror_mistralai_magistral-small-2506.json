@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 4,
+    "reasoning": "The summary accurately captures the core arguments and key points from the source text, including the importance of evaluation, the distinction between intrinsic and extrinsic evaluation, and the role of automated metrics, human judgment, and LLM-as-a-judge approaches. However, it omits some nuanced details, such as specific examples (e.g., squirrel references, cowbell) and minor tangential points (e.g., the 'more coffee breaks' analogy). The summary does not fabricate or misrepresent any information but could be more exhaustive in its coverage."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured and logically flows from one idea to the next. It begins with the overarching importance of evaluation, then systematically covers automated metrics, LLM-as-a-judge, and broader evaluation criteria (bias, reliability, etc.). The language is clear and concise, with no awkward transitions or disjointed sections."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary avoids excessive fluff and redundancy, focusing on essential concepts. However, it could be slightly more succinct by consolidating related ideas (e.g., combining mentions of bias and fairness with other non-technical aspects). Some sentences are slightly verbose but not overly so."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary covers the most critical points—automated metrics, human evaluation, and broader considerations like bias and efficiency—but misses some secondary details (e.g., specific examples, the 'non-deterministic tantrum' analogy, and the 'intrinsic vs. extrinsic' distinction is mentioned but not fully fleshed out). It captures the 'why' and 'how' of evaluation but skips minor asides."
+  },
+  "overall_assessment": "The summary is highly faithful, coherent, and concise, with excellent coverage of the main ideas. It would benefit from slightly more brevity and exhaustive inclusion of tangential points, but it is overall a strong and accurate condensation of the source text."
+}

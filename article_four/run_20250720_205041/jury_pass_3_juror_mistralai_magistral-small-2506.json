@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source text, including the studies in 'Nature Communications' and the University of Vienna, the mechanism of nanoparticle accumulation in the brain, and the potential health risks (inflammation and neurodegenerative diseases). No fabrications or contradictions are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flows from study findings to health implications, and is easy to follow. The language is clear and concise without ambiguity."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy and fluff, including only essential details. Every sentence contributes meaningfully to the overall message without unnecessary elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points: nanoparticle crossing the blood-brain barrier, ingestion pathway, rapid brain accumulation, and potential health risks. No major nuances or secondary points are omitted."
+  },
+  "overall_assessment": "The summary is excellent—faithful, coherent, concise, and comprehensive. It perfectly distills the original source text without loss of accuracy or clarity."
+}

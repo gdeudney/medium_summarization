@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary accurately reflects the core findings from the source text, including the University of Helsinki study, the 50% risk reduction, the 2,000 men tracked over 20 years, the benefits of heat stress on blood vessels and blood pressure, the optimal frequency of 4-7 sessions per week, and the role of endorphins in relaxation and heart health. However, it introduces an extraneous detail about Mars' Gale Crater, which is not present in the source text, indicating a minor fabrication or hallucination."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. The information flows logically from the main study findings to the mechanisms of benefit, and the sentences are grammatically correct and easy to follow."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary is mostly direct and avoids unnecessary fluff, effectively condensing the key points from the source text. However, the inclusion of the unrelated detail about Mars' Gale Crater detracts slightly from its conciseness, as this information serves no purpose in the context of the summary."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the essential elements from the source text: the study's origin, the risk reduction statistic, the methodology, the mechanisms linking sauna use to cardiovascular benefits, the frequency of sessions for maximum effect, and the role of endorphins. No critical points or main ideas from the source text are omitted."
+  },
+  "overall_assessment": "The summary is largely accurate and well-written, effectively condensing the key information from the source text. However, the inclusion of an unrelated detail about Mars' Gale Crater detracts slightly from its faithfulness and conciseness."
+}

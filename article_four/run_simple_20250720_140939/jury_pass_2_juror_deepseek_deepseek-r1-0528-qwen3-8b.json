@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary accurately captures key facts from the source text, such as the University of Helsinki study, the 50% risk reduction, the 2,000 men tracked over 20 years, improved blood vessel function, reduced blood pressure, the 4-7 weekly sessions, and the endorphin release benefits. However, it incorrectly includes a reference to Mars' Gale Crater, which is not present in the source text, indicating a minor fabrication or hallucination."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It logically organizes information, uses precise language, and transitions smoothly between ideas, making it easy to understand."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, with every word serving a purpose. It avoids fluff, redundancy, and irrelevant details, presenting only the essential information from the source text."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all the critical points from the source text, including the study's origin, participants, duration, mechanisms (heat stress, endorphin release), frequency, and effects on cardiovascular health. It does not miss any essential concepts or main ideas."
+  },
+  "overall_assessment": "The summary is largely accurate, coherent, concise, and comprehensive, though it contains one minor inaccuracy regarding the Mars reference."
+}

@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary perfectly reflects the facts from the source text. It accurately captures all key information including the University of Helsinki study, the 2,000 men over 20-year period, the 50% risk reduction of cardiovascular disease, the mechanism of heat stress improving blood vessel function and lowering blood pressure, the optimal frequency of 4-7 sessions per week, and the endorphin release leading to relaxation and heart health benefits. There are no major fabrications or contradictions with the original source text."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear, well-structured, and fluent. It presents information in a logical sequence that flows naturally from introducing the research to detailing methodology, benefits, optimal frequency, and additional health effects. The structure follows a logical progression that makes it easy to understand and follow."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "The summary is reasonably concise but could be more direct in some areas. While it avoids excessive fluff and redundancy, it contains slightly more descriptive language than necessary for maximum conciseness. Every word serves a purpose, but there's room for slight trimming to make it even more succinct without losing information."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary provides excellent coverage of all essential concepts from the source text. It captures all critical points including the study's origin, methodology, primary findings (50% risk reduction), mechanism of benefit, optimal usage frequency, and additional health benefits. No key information from the original source text is missed."
+  },
+  "overall_assessment": "The summary is highly effective, demonstrating strong faithfulness, coherence, and comprehensive coverage. While slightly less concise than possible, it remains an excellent representation of the source text with all essential information accurately captured in a well-structured format."
+}

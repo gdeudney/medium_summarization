@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source texts: the evidence of ancient megafloods in Gale Crater, their likely cause (meteor impact melting ice), the presence of long-lasting lakes and river systems, and the implications for Mars' early atmosphere and habitability. No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flows from one point to the next, and is easy to understand. The sentences are connected smoothly, and the overall meaning is clear."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, with no redundant or irrelevant details. Every sentence contributes directly to the main points derived from the source texts."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all essential concepts from the source texts: the megafloods, their likely cause, the long-term presence of water, and the broader implications for Mars' early conditions. No critical information is omitted."
+  },
+  "overall_assessment": "The summary is excellent in all aspects: it is factually accurate, well-written, concise, and comprehensive. It perfectly distills the original source texts without losing any key details or introducing errors."
+}

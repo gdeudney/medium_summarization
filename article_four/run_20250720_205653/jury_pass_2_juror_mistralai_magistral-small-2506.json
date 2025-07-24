@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key facts from the source text, including the study's institution (University of Helsinki), sample size (2,000 men), duration (20 years), risk reduction (50%), and mechanisms (heat stress, blood vessel function, endorphins). No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, with logical flow and clear transitions. It begins with the study's context, presents findings, explains mechanisms, and concludes with broader implications. The language is fluent and easy to follow."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is highly concise, omitting no essential details while avoiding redundancy. Every sentence adds value, and there is no filler or unnecessary repetition."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source text, including the study's scope, results, biological mechanisms, and additional benefits (endorphins). No important information is omitted."
+  },
+  "overall_assessment": "The summary is excellent in all aspects—faithful, coherent, concise, and comprehensive. It perfectly distills the original text without loss of accuracy or clarity."
+}

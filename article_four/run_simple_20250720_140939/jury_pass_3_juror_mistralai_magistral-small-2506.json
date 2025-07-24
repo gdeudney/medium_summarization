@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key details from the source text, including the studies (Nature Communications and University of Vienna), the rapid accumulation in the brain, and the potential neurological risks. No inaccuracies or hallucinations are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logically flowing, and easy to follow. It introduces the studies, explains the findings, and concludes with the broader implications in a coherent manner."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is highly concise, omitting all unnecessary details while retaining all essential information. Every sentence serves a clear purpose without redundancy."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures all critical points from the source text, including the studies, the rapid brain accumulation, and the potential health risks. No important nuances or secondary points are omitted."
+  },
+  "overall_assessment": "The summary is excellent in all aspects—faithful, coherent, concise, and comprehensive."
+}

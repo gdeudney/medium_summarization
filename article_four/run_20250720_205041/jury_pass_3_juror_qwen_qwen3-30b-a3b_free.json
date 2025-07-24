@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all three source texts without introducing contradictions or fabrications. It correctly attributes the study about plastic nanoparticles crossing the blood-brain barrier in mice to *Nature Communications*, accurately describes the University of Vienna's finding about accumulation in the brain within two hours via ingestion, and properly cites the link between nanoplastic exposure and inflammation/neurodegenerative diseases from Article 3. The phrase 'environmental plastic contamination' is a reasonable inference from the context of food/water exposure described in the sources."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally clear and logically structured. It connects the studies sequentially (Nature Communications → University of Vienna → general health risks) and uses transitional phrases like 'while' and 'though' to maintain flow. The causal relationship between nanoplastic exposure and health risks is presented in a way that aligns with the original texts' implications."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary is perfectly succinct, with no redundant or filler words. Each sentence directly conveys a key point from the sources: the mechanism (blood-brain barrier), the method of exposure (ingestion), the timeframe (two hours), the health risks (inflammation/neurodegenerative diseases), and the call for further research. The final sentence effectively synthesizes the implications without excess elaboration."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "All critical points from the three source texts are fully captured. The summary includes the specific journal (*Nature Communications*), the University of Vienna research, the two-hour accumulation timeframe, the link to inflammation/neurodegenerative diseases, and the emphasis on long-term health impacts. It maintains the nuance of 'preliminary evidence' and 'potential risks' as described in the original texts."
+  },
+  "overall_assessment": "Flawless in accuracy, coherence, conciseness, and coverage, with no omissions or distortions of the original source texts."
+}
