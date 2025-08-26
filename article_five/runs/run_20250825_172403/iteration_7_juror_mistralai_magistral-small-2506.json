@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key points from the source text, including motivations (safety, compliance, quality), metrics (automated tools, LLM-as-judge, human evaluation), nuanced capabilities (personalization, planning, feedback), and cross-cutting aspects (bias, reliability, cost). It retains critical examples (e.g., 'raft recommendation', 'more cowbell') and technical definitions (e.g., RTE/HTD, METEOR) without omission or distortion."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is logically structured, mirroring the article's flow from motivations to metrics to advanced concepts. Transitions between sections (e.g., automated metrics → human evaluation) are seamless. Complex ideas (e.g., intrinsic vs. extrinsic evaluation) are explained clearly, and the spaghetti metaphor effectively simplifies abstraction."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy by omitting tangential comments (e.g., squirrel-themed humor) while retaining essential details. Each evaluation aspect is presented succinctly (e.g., Bias/Fairness: 'Excluding Africa/Asia requires monitoring'). The structure balances depth (e.g., defining F1-score) with brevity (e.g., 'Non-determinism likened to teenage mood swings')."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all critical points: (1) Motivations (safety, compliance, quality, efficiency), (2) Metrics (automated, LLM-as-judge, human), (3) Nuanced capabilities (personalization, planning, feedback), (4) Cross-cutting aspects (bias, reliability, cost, observability). Only minor stylistic elements (e.g., 'Franken-Rig') are omitted without harming completeness."
+  },
+  "overall_assessment": "The summary is flawless. It achieves perfect faithfulness, coherence, conciseness, and coverage, meeting all evaluation criteria with precision and clarity."
+}

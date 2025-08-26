@@ -30,7 +30,7 @@ if __name__ == "__main__":
     # Define the paths to your files.
     # Everything is in this directory
     original_article_path = ".\\LLM evaluation fundatmentals.md"
-    local_summary_path = ".\\gemma3SummarizeThisArticle.md"
+    local_summary_path = ".\\magistralSummary.md"
 
     print(f"--- Loading Evidence ---")
     print(f"Attempting to load original article from: {original_article_path}")
