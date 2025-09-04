@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary faithfully captures all key points from the original source text, including technical terms (e.g., CoT, RTE, HTD), metaphors (e.g., 'Digital Darwin Awards', 'spaghetti and stomachs'), and the central thesis about rigorous evaluation. It avoids misrepresentations, omissions, or distortions, and even retains the article's tone and humor (e.g., 'biking to the moon')."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well-structured, logical, and easy to follow. It mirrors the original's flow (e.g., 'Why Bother?' → 'Automated Metrics' → 'Human Evaluation'), with clear transitions between sections. The language is precise and engaging, maintaining the original's conversational yet informative tone."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary avoids redundancy and fluff, condensing the original's 20+ sections into a succinct yet comprehensive overview. It omits tangential examples (e.g., squirrel-themed hotels) while preserving critical details. The length is commensurate with the original's complexity, and every sentence adds value."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary covers all major themes: the necessity of evaluation for safety, compliance, and quality; automated metrics; LLM-as-a-judge; human evaluation; intrinsic/extrinsic evaluation; and broader considerations like bias, reliability, and user satisfaction. Even nuanced points (e.g., non-determinism, observability) are included."
+  },
+  "overall_assessment": "The summary is flawless. It achieves perfect balance across all criteria: faithful to the original text, coherent and engaging, concise without losing depth, and comprehensive in coverage. The tone and style mirror the source, and no critical information is sacrificed for brevity."
+}
