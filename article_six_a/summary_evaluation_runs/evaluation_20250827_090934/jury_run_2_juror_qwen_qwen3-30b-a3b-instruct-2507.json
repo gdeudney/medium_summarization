@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately and faithfully represents every key claim, example, and nuance from the original source text. All cited concepts—such as the Digital Darwin Awards, the ArXiv paper on real-world failures, the metaphor of 'spaghetti' for intrinsic vs. extrinsic evaluation, and the specific methodologies like RTE and HTD—are correctly preserved. The summary maintains the source’s tone, including its humorous asides (e.g., 'more cowbell', 'squirrel court', 'cosmic rays') without distorting their meaning. Every section from the original is reflected with factual precision, and no hallucinated or misrepresented claims are present."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is exceptionally well-structured and logically organized. It follows the exact sequence and hierarchy of the original article, using clear section headers and consistent transitions. Each subsection flows naturally into the next, with internal coherence maintained through consistent terminology and narrative rhythm. The use of metaphor and tone (e.g., 'decoder ring', 'bake-off blue ribbons') is preserved and effectively enhances readability without undermining clarity. The summary reads as a polished, natural extension of the source, not a disjointed list of points."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary achieves perfect balance between completeness and brevity. It eliminates redundancy and fluff (e.g., removing the repetitive framing of 'Franken-Lab' and the author's self-references) without sacrificing any essential content. All examples, explanations, and critical context are retained in condensed form. The use of parenthetical metaphors (e.g., 'Grading a student on one topic they studied') efficiently conveys complex ideas. There is no filler, no repetition, and no irrelevant detail—every sentence serves a purpose in conveying the source's core message."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary captures 100% of the most critical points from the original text. All major sections—motivations for evaluation, automated metrics, LLM-as-a-judge, nuanced capabilities, explainability, human evaluation, intrinsic/extrinsic distinction, and beyond-core aspects—are fully and accurately addressed. Every key example (e.g., recommending a raft across the Atlantic, sarcastic hotel reviews, temperature-induced variability) is included. The summary even preserves subtle but essential details like the citation to the ArXiv paper, the mention of BERTScore’s ability to detect idioms, and the importance of observability in production. No significant information is omitted."
+  },
+  "overall_assessment": "This is a model-level summary that exemplifies fidelity, clarity, and precision. It meets and exceeds all evaluation criteria, demonstrating near-perfect alignment with the source text in content, tone, structure, and intent. It is not merely accurate—it is a superior distillation of the original, preserving its spirit while eliminating excess. This summary is a benchmark for reference-free summarization quality."
+}
