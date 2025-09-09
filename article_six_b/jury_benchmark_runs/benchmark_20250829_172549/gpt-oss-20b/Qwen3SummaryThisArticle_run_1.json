@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 4,
+    "reasoning": "The summary accurately reflects the main themes of the source text, correctly describing planning evaluation (HTD), explainability techniques, human evaluation, intrinsic/extrinsic distinctions, bias/fairness, reliability, efficiency, observability, and user satisfaction. It omits a few specifics such as the mention of the Real‑World Language Model Failures paper, the detailed list of automated metrics (BLEU, ROUGE, METEOR, BERTScore, perplexity), and the regulatory/safety emphasis, but overall it does not contain factual errors."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is logically organized, with clear sections that mirror the source structure. Sentences flow smoothly and ideas are connected coherently."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "It condenses the long article into a readable paragraph without excessive repetition or irrelevant detail. Minor verbosity in some phrases does not detract significantly from overall succinctness."
+  },
+  "coverage": {
+    "rank": 3,
+    "reasoning": "While it covers many key points, it misses several important details: the specific automated metrics list (BLEU, ROUGE, METEOR, BERTScore, perplexity), the safety and regulatory discussion, and some nuances of the evaluation methods. Thus coverage is good but not exhaustive."
+  },
+  "overall_assessment": "The summary provides a clear, coherent overview that captures most major themes of the source text, though it omits certain details and depth. It is faithful and concise enough for a high‑level recap, but would benefit from including the missing metrics and safety/regulatory aspects to achieve full coverage."
+}
