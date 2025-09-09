@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 4,
+    "reasoning": "The summary accurately captures the core themes of the source—why evaluation is essential, the main categories of metrics and methods (automated, LLM-as-judge, human), intrinsic vs extrinsic evaluation, key considerations such as bias, reliability, cost, observability, user satisfaction, and non‑determinism. However it omits many specific details from the original text: the exact names and descriptions of BLEU, ROUGE, METEOR, BERTScore, Perplexity, the discussion on planning, personalization, explainability techniques, and the humorous Franken‑Lab context. Thus it is factually correct but not exhaustive."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary flows logically, with clear sections that mirror the source structure. Sentences are well‑formed and easy to follow."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "It avoids unnecessary repetition or fluff; every sentence adds value and directly relates to the source content."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary covers all major points—purpose of evaluation, categories of metrics, key considerations—but misses some depth (e.g., specific metric names like METEOR, BERTScore, detailed explanations of planning or personalization). It still captures the essential message."
+  },
+  "overall_assessment": "The summary is a faithful, coherent, and concise distillation of the source text. While it omits certain details and depth, it accurately conveys the main arguments and structure of the original article."
+}

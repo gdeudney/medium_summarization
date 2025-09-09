@@ -1,0 +1,4 @@
+{
+  "error": "Chat response error: \n\n  No model found that fits the query.\n\n  Additional information from server:\n    {\n      \"code\": \"generic.noModelMatchingQuery\",\n      \"loadedModelsSample\": [],\n      \"query\": {\n        \"domain\": \"llm\",\n        \"identifier\": \"mistralai/magistral-small\"\n      },\n      \"totalLoadedModels\": 0\n    }",
+  "raw_response": ""
+}
