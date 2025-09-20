@@ -151,7 +151,7 @@ For each of the four pillars, provide a detailed analysis that explicitly refere
 
 **YOUR VERDICT:**
 
-**Only return the following output Format (JSON only):**
+**Output Format (JSON only):**
 Your entire response must be a single, valid JSON object. Do not include any text or formatting before or after the JSON.
 {{
   "faithfulness": {{ "rank": <integer>, "reasoning": "<string>" }},
