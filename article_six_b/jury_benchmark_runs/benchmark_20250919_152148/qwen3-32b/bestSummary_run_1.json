@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects all key points from the hybrid source, including evaluation metrics (BLEU/ROUGE/METEOR), LLM-as-a-judge methodology, nuanced capabilities testing, and safety/compliance considerations. It preserves the original's signature metaphors ('Digital Darwin Awards', 'spaghetti vs stomachs') and maintains factual accuracy while retaining the core message about multi-faceted evaluation."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary maintains logical flow through clear section headings mirroring the original structure. It successfully recreates the source's distinctive tone (humor, analogies) while maintaining readability. The 'squirrel court' metaphor and other stylistic elements are preserved without becoming a distraction from the technical content."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "The summary achieves excellent concision by eliminating redundant examples while retaining essential information. It reduces word count significantly (from ~4000 to ~800 words) without losing critical concepts or the source's personality. Every sentence serves a clear purpose in conveying both technical content and stylistic elements."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all major sections of the original: evaluation importance, automated metrics, LLM-as-judge approach, nuanced capabilities testing, explainability methods, human evaluation, intrinsic/extrinsic distinctions, and additional considerations like bias and reliability. It maintains the hybrid nature by covering both technical content (metrics) and thematic elements (humor, metaphors)."
+  },
+  "overall_assessment": "This is an exemplary summary of a hybrid text that successfully balances technical accuracy with stylistic fidelity. The summary captures all essential information while preserving the original's unique voice through strategic retention of key metaphors and humor. It demonstrates excellent judgment in maintaining both factual completeness and narrative character within a significantly reduced word count."
+}

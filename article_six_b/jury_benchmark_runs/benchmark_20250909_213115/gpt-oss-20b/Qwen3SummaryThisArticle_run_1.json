@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 3,
+    "reasoning": "The summary correctly identifies many of the core ideas—planning, explainability, human evaluation, intrinsic/extrinsic distinctions, bias, reliability, efficiency, observability, and user satisfaction—but omits several key details from the source such as the discussion on safety, regulatory compliance, specific automated metrics (BLEU, ROUGE, METEOR, BERTScore, perplexity), the LLM‑as‑a‑judge section, and some of the narrative tone. Thus it is factually accurate but not fully comprehensive."
+  },
+  "coherence": {
+    "rank": 4,
+    "reasoning": "The summary is logically organized, flows smoothly from one topic to the next, and presents ideas in a clear, readable manner."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "It avoids excessive fluff and redundancy; while it covers many points, it could be trimmed slightly but overall remains succinct."
+  },
+  "coverage": {
+    "rank": 3,
+    "reasoning": "While most major themes are present, several important sections (safety, compliance, specific metrics, LLM‑as‑a‑judge) are missing or only briefly mentioned, so coverage is incomplete."
+  },
+  "overall_assessment": "The summary captures the main thrust of the article but falls short on some critical details and depth; it is coherent and fairly concise but not fully faithful or exhaustive."
+}

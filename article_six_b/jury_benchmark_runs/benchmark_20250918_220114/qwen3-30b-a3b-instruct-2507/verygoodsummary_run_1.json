@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately reflects every major point, argument, and example from the original source text. All key claims—such as the necessity of evaluation for safety, compliance, development efficiency, and product quality—are preserved verbatim or with precise paraphrasing. Technical terms (e.g., RTE, HTD, BERTScore), metaphors (e.g., 'Digital Darwin Awards', 'biking to the moon'), and specific references (e.g., the ArXiv paper on real-world failures) are correctly included without distortion. No factual claims are invented or misrepresented; even nuanced points like non-determinism due to temperature settings are accurately conveyed."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary maintains a clear, logical flow that mirrors the original's structure: motivation → metrics → advanced capabilities → evaluation frameworks → broader considerations. Transitions between sections are smooth and contextually appropriate. The conversational tone—marked by playful metaphors like 'squirrel court' and 'more cowbell'—is consistently preserved in a way that enhances readability without sacrificing clarity. The use of bolded terms, bullet points, and embedded analogies aligns with the source's hybrid style, successfully balancing technical precision with narrative flair."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every sentence serves a purpose. Redundant phrasing is eliminated without loss of meaning or tone. The summary distills complex ideas—such as the difference between intrinsic and extrinsic evaluation, or how BERTScore captures semantic similarity beyond word overlap—into compact, precise statements. Humorous flourishes are retained but not overstated; for example, 'Did it write a haiku or a travel plan?' succinctly encapsulates user relevance without unnecessary elaboration. No superfluous content dilutes the core message."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all major sections of the original: the foundational argument for evaluation, automated metrics (including BLEU, ROUGE, METEOR, Perplexity, BERTScore), LLM-as-a-judge methodologies, nuanced capabilities (personalization, planning, feedback refinement), explainability techniques, human evaluation, intrinsic vs. extrinsic testing, and additional critical aspects like bias, reliability, non-determinism, cost, observability, and user satisfaction. All key examples—such as the cockroach hotel review or recommending a raft across the Atlantic—are preserved in context. The hybrid nature of the source is fully honored: technical depth coexists with stylistic personality."
+  },
+  "overall_assessment": "This summary exemplifies excellence in contextual summarization. It perfectly embodies the 'Hybrid' classification of the original text—faithfully preserving both its rigorous technical content and its distinctive, humorous narrative voice. Every pillar of evaluation is met at the highest level: it is factually accurate, logically coherent, tightly written, and exhaustively comprehensive. The summary doesn't just report; it replicates the source's spirit while distilling its essence with precision."
+}

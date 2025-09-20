@@ -1,0 +1,8 @@
+juror_model,summary_id,mean_score,std_dev,mean_faithfulness,mean_coherence,mean_conciseness,mean_coverage
+glm-4.1v-9b-thinking,Qwen3SummaryThisArticle,16.0,0.0,4.0,4.0,4.0,4.0
+glm-4.1v-9b-thinking,bestSummary,19.0,0.0,5.0,5.0,4.0,5.0
+deepseek-r1-0528-qwen3-8b,Qwen3SummaryThisArticle,19.0,0.0,5.0,4.0,5.0,5.0
+deepseek-r1-0528-qwen3-8b,bestSummary,17.0,0.0,4.0,4.0,5.0,4.0
+deepseek-r1-0528-qwen3-8b,gemma3SummarizeThisArticle,18.4,0.7999999999999999,5.0,4.2,4.2,5.0
+deepseek-r1-0528-qwen3-8b,magistralSummary,17.0,0.0,5.0,4.0,4.0,4.0
+deepseek-r1-0528-qwen3-8b,verygoodsummary,17.2,0.39999999999999997,4.0,4.2,4.8,4.2

@@ -1,0 +1,4 @@
+{
+  "error": "Chat response error: Invalid JSON Schema: Unrecognized schema: {\"rank\":{\"type\":\"integer\"},\"reasoning\":{\"type\":\"string\"}}",
+  "raw_response": ""
+}

@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary accurately preserves all key facts, examples, and technical terms from the hybrid source (e.g., 'Digital Darwin Awards', 'squirrel court', ArXiv paper reference, RTE/HTD methodologies). No invented details or misrepresentations exist. Humorous analogies ('minefield sightseeing', 'budget travel ≠ private jet') are verbatim preserved in context."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary perfectly mirrors the source's chaotic, conversational tone while maintaining logical flow. It recreates the original's 'soul' through consistent use of humor ('more cowbell', 'biking to the moon') and narrative rhythm without becoming a robotic clone. Section transitions (e.g., safety → compliance → efficiency) mirror the source's progression."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every word serves dual purpose: conveying technical accuracy ('BERTScore uses contextual embeddings') and preserving stylistic flair ('tiny cameras on digital antics'). Redundant phrases are eliminated (e.g., condensed 'why bother' section) while retaining all critical examples. No fat remains—every sentence pulls weight."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers both technical pillars (metrics, bias, non-determinism) and the source's unique personality ('Franken-Lab', 'coffee breaks'). All sections from 'Why Bother' to 'Beyond Core Metrics' are distilled with equal attention to factual depth and humorous nuance. No key argument or joke is omitted."
+  },
+  "overall_assessment": "A near-perfect hybrid summary that achieves the impossible: it's both a technically precise distillation of LLM evaluation frameworks AND an authentic recreation of the source's chaotic, squirrel-powered charm. Every pillar scores maximum points because it treats accuracy and soul as equally non-negotiable—exactly what the Hybrid classification demands."
+}

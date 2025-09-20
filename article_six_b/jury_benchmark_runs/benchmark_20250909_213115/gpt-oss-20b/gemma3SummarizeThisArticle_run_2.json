@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 4,
+    "reasoning": "The summary accurately captures the main themes of the source text—why evaluation matters (safety, compliance, avoiding failures), the categories of metrics and methods (automated metrics, LLM-as-judge, human evaluation, intrinsic vs extrinsic), and key considerations such as bias, reliability, efficiency/cost, observability, user satisfaction, and non-determinism. It does not contain any factual errors or misrepresentations. However it omits several specific details from the source (e.g., METEOR, perplexity, BERTScore, detailed explanations of BLEU/ROUGE, planning & sequencing, personalization, refinement on feedback, explainability techniques). These omissions reduce perfect faithfulness but do not introduce inaccuracies."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary is well‑structured, logically organized, and easy to follow. It presents the points in a clear order that mirrors the source’s flow."
+  },
+  "conciseness": {
+    "rank": 4,
+    "reasoning": "It avoids unnecessary fluff and focuses on the core ideas, but it does leave out some details (e.g., METEOR, perplexity) which slightly reduces its succinctness relative to a perfect summary."
+  },
+  "coverage": {
+    "rank": 4,
+    "reasoning": "The summary covers all major sections of the source—motivation for evaluation, categories of metrics/methods, key considerations, and non‑determinism. It misses some sub‑topics (planning, personalization, refinement, explainability) but still captures the essential content."
+  },
+  "overall_assessment": "Overall, the summary is a faithful, coherent, and reasonably concise condensation of the source text, though it omits several detailed points that appear in the original article."
+}

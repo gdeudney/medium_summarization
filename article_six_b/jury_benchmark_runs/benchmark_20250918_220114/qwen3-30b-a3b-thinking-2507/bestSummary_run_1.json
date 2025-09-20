@@ -1,0 +1,19 @@
+{
+  "faithfulness": {
+    "rank": 5,
+    "reasoning": "The summary perfectly preserves all key facts, examples (e.g., 'swim the Atlantic on a raft', 'bike to the moon'), technical terms (F1-Score, RTE, HTD), and critical citations (ArXiv paper link) without invention. It mirrors the source's thematic emphasis on safety/compliance risks while retaining its signature humor ('cowbell-obsessed lunatic', 'squirrel-infested intro')—exactly as required for Hybrid fidelity."
+  },
+  "coherence": {
+    "rank": 5,
+    "reasoning": "The summary replicates the source's conversational rhythm and narrative flow flawlessly. It maintains the original's witty tone ('Digital Darwin Awards', 'spaghetti vs. stomachs dilemma') while structuring content logically from problem statement to conclusion. The humor isn't tacked on—it's woven into every section like the source, making it feel like a natural extension of the author's voice."
+  },
+  "conciseness": {
+    "rank": 5,
+    "reasoning": "Every word serves dual purpose: conveying technical content (e.g., 'BERTScore uses contextual embeddings to catch paraphrases') and preserving voice ('temperature settings play a role—test repeatedly'). It eliminates redundancies without sacrificing nuance, hitting the ideal Hybrid balance where no phrase is expendable."
+  },
+  "coverage": {
+    "rank": 5,
+    "reasoning": "The summary comprehensively covers all source sections (Why Bother?, Metrics, Nuanced Capabilities, Intrinsic/Extrinsic, Hidden Menace) with equal attention to technical depth and thematic soul. It includes every critical example (sarcasm detection, non-determinism, bias amplification) while preserving the source's core argument that evaluation is 'non-negotiable'—exactly what Hybrid requires."
+  },
+  "overall_assessment": "An exemplary Hybrid summary: it doesn't just distill facts but resurrects the source's vibrant personality. Faithfulness to both content and voice is flawless, coherence mirrors the original's cadence perfectly, conciseness eliminates all fat without losing flavor, and coverage leaves no critical insight unaddressed—proving evaluation isn't optional because this summary itself embodies it."
+}

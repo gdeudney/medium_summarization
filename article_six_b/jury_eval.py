@@ -36,19 +36,28 @@ OPENROUTER_JUROR_MODELS = [
 # IMPORTANT: Use the full model identifier from LM Studio's "Local Server" tab.
 # Example: "gemma-2-9b-it-gguf/gemma-2-9b-it-q8_0.gguf"
 LMSTUDIO_JUROR_MODELS = [
-    #"glm-4.5-air",
-    "openai/gpt-oss-120b",
-    "nousresearch/hermes-4-70b",
-    #"GLM-Z1-9B-0414",
-    #"baidu/ernie-4.5-21b-a3b",
-    #"deepseek/deepseek-r1-0528-qwen3-8b",
-    #"GLM-4.1V-9B-Thinking-GGUF",
+    "glm-4.1v-9b-thinking",
+    #"ernie-4.5-21b-a3b-pt",
+    "deepseek-r1-0528-qwen3-8b",
+    #"qwen3-30b-a3b-instruct-2507",
+    #"magistral-small-2506",
     #"gpt-oss-20b",
-    #"qwen/qwen3-4b-2507",
+    #"mistralai/magistral-small-2509",
+    #"gemma-3-27b-it",
+    #"qwq-32b",
+    #"qwen3-32b",
+    #"qwen3-4b-instruct-2507",
+    
+    #"glm-z1-9b-0414",
+    #"qwen3-30b-a3b-thinking-2507",
+    
+    #"hermes-4-70b",
+    #"glm-4.5-air",
+    #"gpt-oss-120b",
+    
     #"THUDM_GLM-4-32B-0414",
-    #"qwen/qwen3-30b-a3b-2507",
-    #"mistralai/magistral-small",
-    #"mistralai/mistral-small-3.2"
+
+    #"mistral-small-3.2-24b-instruct-2506"
 
     # Add other local model identifiers here
 ]
@@ -105,18 +114,30 @@ TEST_SUMMARIES = load_summaries_from_disk(SUMMARIES_DIR)
 # The prompt for the "Jury" LLM.
 JURY_PROMPT = """
 You are a meticulous and impartial AI quality analyst, acting as a judge.
-Your task is to conduct a reference-free evaluation of a machine-generated summary.
-You will compare the provided 'Summary to Evaluate' directly against the 'Original Source Text'.
-Your evaluation must be strict, objective, and detailed.
+Your task is to conduct a sophisticated, context-aware evaluation of a machine-generated summary. Your analysis will proceed in two stages: Source Analysis and Contextual Evaluation.
+Stage 1: Source Analysis
+Before evaluating the summary, you must first analyze and classify the 'Original Source Text'. Identify its type based on the framework below:
+Is it a 'Technical Document'? A research paper, legal contract, or engineering spec where the goal is a pure, uncut information distillate. For this type, "dry" is a feature, not a bug.
+Is it 'Creative Media'? A novel, poem, or opinion piece where the goal is to capture the feeling and the theme, not just the sequence of events.
+Is it a 'Hybrid'? Content that blends factual information with a distinct personality or narrative style. It requires a summary to have the Technical Document's accuracy and the Creative Media's soul.
+In your response, state the identified source type and briefly justify your classification. This decision will shape your entire evaluation.
 
-**Evaluation Criteria:**
+Stage 2: Contextual Evaluation
+Now, evaluate the 'Summary to Evaluate' using the Four Pillars, interpreting them through the lens of your Stage 1 analysis.
+Evaluation Criteria (The Four Pillars):
+Faithfulness (Rank 1-5):
+For all types: The summary must not invent facts.
+Contextual Lens: For a Technical Document, this is paramount and relates to cold, hard data. For Creative Media, this also includes faithfulness to the original's theme and feeling.
+Coverage (Rank 1-5):
+Contextual Lens: For a Technical Document, did it cover the key specs and factual arguments? For Creative Media, did it capture the core theme and nuance, not just the plot points? For a Hybrid, did it successfully cover both the core information and the unique perspective that gives it power?
+Coherence (Rank 1-5):
+For all types: The summary must be a readable, logical piece of text, not a "sentence salad".
+Contextual Lens: For Creative Media or a Hybrid, coherence also means successfully recreating the tone or vibe of the original. Does the summary capture the source's soul, or is it a robotic clone?
+Conciseness (Rank 1-5):
+For all types: The summary must get to the point. Every word must pull its weight.
+Analysis & Scoring:
+For each of the four pillars, provide a detailed analysis that explicitly references your Stage 1 classification. Explain why the summary succeeds or fails for that specific type of source text. Conclude with an overall assessment.
 
-1.  **Faithfulness (Rank 1-5):** How factually accurate is the summary compared to the source text? (1: Complete garbage, 5: Flawless)
-2.  **Coherence (Rank 1-5):** How well-written, logical, and easy to understand is the summary? (1: Incoherent, 5: Exceptionally clear)
-3.  **Conciseness (Rank 1-5):** Does the summary avoid fluff, redundancy, and irrelevant details? (1: Very verbose, 5: Perfectly succinct)
-4.  **Coverage (Rank 1-5):** How well does the summary capture the most critical points of the source text? (1: Misses most key info, 5: Excellent coverage)
-
-**EVIDENCE:**
 
 **1. Original Source Text:**
 ---
@@ -130,7 +151,7 @@ Your evaluation must be strict, objective, and detailed.
 
 **YOUR VERDICT:**
 
-**Output Format (JSON only):**
+**Only return the following output Format (JSON only):**
 Your entire response must be a single, valid JSON object. Do not include any text or formatting before or after the JSON.
 {{
   "faithfulness": {{ "rank": <integer>, "reasoning": "<string>" }},
@@ -294,6 +315,7 @@ def main():
                 print(f"-> Loading local model via lms.llm(): {model_id}...")
                 model = lms.llm(model_id)
                 run_evaluation_for_model(model, model_id, all_results, run_dir)
+                
             except Exception as e:
                 print(f"!! LM Studio Error for model '{model_id}': {e}")
                 print("!! Please ensure the model identifier is correct and the model files are available.")
