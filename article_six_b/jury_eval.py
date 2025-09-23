@@ -113,14 +113,6 @@ TEST_SUMMARIES = load_summaries_from_disk(SUMMARIES_DIR)
 
 # The prompt for the "Jury" LLM.
 JURY_PROMPT = """
-Your entire response must be a single, valid JSON object. Do not output thinking tokens. Do not include any text or formatting before or after the JSON.
-{{
-  "faithfulness": {{ "rank": <integer>, "reasoning": "<string>" }},
-  "coherence": {{ "rank": <integer>, "reasoning": "<string>" }},
-  "conciseness": {{ "rank": <integer>, "reasoning": "<string>" }},
-  "coverage": {{ "rank": <integer>, "reasoning": "<string>" }},
-  "overall_assessment": "<string>"
-}}
 You are a meticulous and impartial AI quality analyst, acting as a judge.
 Your task is to conduct a sophisticated, context-aware evaluation of a machine-generated summary. Your analysis will proceed in two stages: Source Analysis and Contextual Evaluation.
 Stage 1: Source Analysis
