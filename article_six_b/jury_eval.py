@@ -38,11 +38,11 @@ OPENROUTER_JUROR_MODELS = [
 LMSTUDIO_JUROR_MODELS = [
     "glm-4.1v-9b-thinking",
     #"ernie-4.5-21b-a3b-pt",
-    "deepseek-r1-0528-qwen3-8b",
+    #"deepseek-r1-0528-qwen3-8b",
     #"qwen3-30b-a3b-instruct-2507",
-    #"magistral-small-2506",
     #"gpt-oss-20b",
     #"mistralai/magistral-small-2509",
+    "magistral-small-2506",
     #"gemma-3-27b-it",
     #"qwq-32b",
     #"qwen3-32b",
@@ -113,6 +113,14 @@ TEST_SUMMARIES = load_summaries_from_disk(SUMMARIES_DIR)
 
 # The prompt for the "Jury" LLM.
 JURY_PROMPT = """
+Your entire response must be a single, valid JSON object. Do not output thinking tokens. Do not include any text or formatting before or after the JSON.
+{{
+  "faithfulness": {{ "rank": <integer>, "reasoning": "<string>" }},
+  "coherence": {{ "rank": <integer>, "reasoning": "<string>" }},
+  "conciseness": {{ "rank": <integer>, "reasoning": "<string>" }},
+  "coverage": {{ "rank": <integer>, "reasoning": "<string>" }},
+  "overall_assessment": "<string>"
+}}
 You are a meticulous and impartial AI quality analyst, acting as a judge.
 Your task is to conduct a sophisticated, context-aware evaluation of a machine-generated summary. Your analysis will proceed in two stages: Source Analysis and Contextual Evaluation.
 Stage 1: Source Analysis
@@ -152,7 +160,7 @@ For each of the four pillars, provide a detailed analysis that explicitly refere
 **YOUR VERDICT:**
 
 **Output Format (JSON only):**
-Your entire response must be a single, valid JSON object. Do not include any text or formatting before or after the JSON.
+Your entire response must be a single, valid JSON object. Do not output thinking tokens. Do not include any text or formatting before or after the JSON.
 {{
   "faithfulness": {{ "rank": <integer>, "reasoning": "<string>" }},
   "coherence": {{ "rank": <integer>, "reasoning": "<string>" }},
