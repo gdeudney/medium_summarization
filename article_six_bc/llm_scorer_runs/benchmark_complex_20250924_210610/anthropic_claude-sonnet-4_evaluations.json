@@ -1,0 +1,202 @@
+[
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "This article excels in engagement through creative Star Wars analogies that make complex data architecture concepts accessible and memorable. The clarity is strong with well-defined technical concepts, though some metaphors occasionally overshadow the technical content. The depth is solid, covering fundamental differences between Inmon and Kimball approaches with practical implications, but could benefit from more real-world implementation details. The structure flows logically from historical context to modern solutions, with effective use of tables and clear section breaks that guide readers through the narrative.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "This article excels in engagement through creative Star Wars analogies that make complex data architecture concepts accessible and memorable. The clarity is strong with well-defined technical concepts, though some metaphors occasionally overshadow the technical content. The depth is solid, covering the fundamental Inmon vs. Kimball philosophies with good technical detail and practical implications. The structure flows logically from problem setup through comparison to modern solutions, with effective use of tables and clear section breaks. The interactive checklist and forward-looking conclusion enhance the overall coherence.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "This article excels in engagement through creative Star Wars analogies that make complex data architecture concepts accessible and memorable. The clarity is strong with well-defined technical concepts and clear explanations, though some metaphors occasionally stretch thin. The depth is solid, covering fundamental differences between Inmon and Kimball approaches with practical insights, though it could benefit from more real-world implementation details. The structure flows logically from historical context through comparison to modern solutions, with effective use of tables and checklists to organize information.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "This article excels in engagement through creative Star Wars analogies that make complex data architecture concepts accessible and memorable. The clarity is strong with well-defined technical concepts, though some metaphors occasionally overshadow the technical content. The depth is solid, covering fundamental differences between Inmon and Kimball approaches with practical implications, but could benefit from more real-world implementation details. The structure flows logically from historical context to modern solutions, with effective use of tables and clear section breaks that guide readers through the narrative.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "This article excels in engagement through creative Star Wars analogies that make complex data architecture concepts accessible and memorable. The clarity is strong with well-defined technical concepts and clear explanations, though some metaphors occasionally stretch thin. The depth is solid, covering the fundamental Inmon vs. Kimball philosophies with good technical detail and practical implications. The structure flows logically from problem setup through comparison to modern solutions, with effective use of tables and interactive elements. The writing successfully transforms dry technical content into an entertaining yet informative piece that would appeal to both technical and business audiences.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article demonstrates strong clarity with accessible technical language and relatable analogies. It provides solid depth through practical hardware specifications, real-world case studies, and actionable implementation steps. The writing style is highly engaging with humor and personality that maintains reader interest. The structure flows logically from problem identification through solution explanation to implementation guidance. Minor weaknesses include some tangential humor that occasionally distracts and a few technical details that could be more thoroughly explained.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article demonstrates strong clarity with accessible technical language and clear explanations of complex concepts. The depth is solid, providing practical insights into hybrid AI strategies with specific hardware recommendations and real-world examples. Engagement is high due to the conversational tone, humor, and relatable scenarios like '3 AM hardware forum doomscrolling.' The structure flows logically from problem identification through solution explanation to implementation guidance. Minor weaknesses include some tangential humor that occasionally distracts and a few technical details that could be more thoroughly explained.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article demonstrates strong clarity with accessible technical language and relatable analogies. It provides solid depth through practical hardware specifications, real-world case studies, and actionable implementation steps. The writing style is highly engaging with humor and personality that maintains reader interest. The structure flows logically from problem identification through solution explanation to implementation guidance. Minor weaknesses include some tangential humor that occasionally distracts and a few technical details that could be more thoroughly explained.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article demonstrates strong clarity with accessible technical language and relatable analogies. It provides solid depth through specific hardware recommendations, real-world case studies, and practical implementation details. Engagement is high due to humor, personal anecdotes, and vivid metaphors that make technical content approachable. Structure is generally good with clear sections and logical flow, though some tangential comments and broken image references slightly detract from coherence. Overall, this is a well-executed technical piece that successfully balances expertise with readability.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article demonstrates strong clarity with accessible technical language and relatable analogies. It provides solid depth through practical hardware specifications, real-world case studies, and actionable implementation steps. The writing style is highly engaging with humor and personality that maintains reader interest. The structure flows logically from problem identification through solution explanation to practical implementation. Minor weaknesses include some tangential humor that occasionally distracts and a few technical details that could be more thoroughly explained, but overall it's a well-crafted piece that effectively balances technical expertise with readability.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 6,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article excels in engagement with creative analogies and humor that make technical content accessible. Clarity is generally good despite some overly complex metaphors that occasionally obscure meaning. The structure follows a logical progression from introduction to technical details to evaluation. However, depth is limited by the heavy reliance on analogies over detailed technical explanation, and some claims lack proper sourcing. The casual tone works well for engagement but sometimes undermines the technical credibility expected in AI model analysis.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 6,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article excels in engagement with creative analogies and humor that make technical content accessible. Clarity is generally good despite some overly complex metaphors that occasionally obscure meaning. The structure follows a logical progression from introduction to technical details to evaluation. However, depth is limited by the heavy reliance on analogies over detailed technical explanation, and some claims lack proper sourcing. The casual tone works well for engagement but sometimes undermines the technical credibility expected in AI model analysis.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 6,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article excels in engagement with creative analogies and humor that make technical content accessible. Clarity is generally good despite some overly complex metaphors that occasionally obscure meaning. The structure follows a logical progression from introduction to technical details to evaluation. However, depth is limited by the heavy reliance on analogies over detailed technical explanation, and some claims lack proper sourcing. The casual tone works well for engagement but sometimes undermines the technical credibility expected in AI model analysis.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 6,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article excels in engagement with creative analogies and humor that make technical content accessible. Clarity is generally good despite some overly complex metaphors that occasionally obscure meaning. The structure follows a logical progression from introduction to technical details to evaluation. However, depth is limited by the heavy reliance on analogies over detailed technical explanation, and some claims lack proper sourcing. The casual tone works well for engagement but sometimes undermines the technical credibility expected in AI model analysis.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 6,
+    "engagement_score": 8,
+    "structure_score": 7,
+    "reasoning": "The article excels in engagement with creative analogies and humor that make technical content accessible. Clarity is generally good despite some overly complex metaphors that occasionally obscure meaning. The structure follows a logical progression from introduction to technical details to evaluation. However, depth is limited by the heavy reliance on analogies over detailed technical explanation, and some claims lack proper sourcing. The casual tone works well for engagement but sometimes undermines the technical credibility expected in an AI model analysis.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 6,
+    "reasoning": "The article demonstrates strong technical depth with comprehensive coverage of LLM evaluation metrics and methodologies. The engaging, humorous writing style with creative analogies makes complex concepts accessible. However, clarity suffers from overly long sentences and tangential humor that sometimes obscures key points. The structure, while generally logical, is weakened by inconsistent subsection organization and some abrupt transitions between topics.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 6,
+    "reasoning": "The article demonstrates strong technical depth with comprehensive coverage of LLM evaluation metrics and methodologies. The engaging, humorous writing style with creative analogies makes complex concepts accessible. However, clarity suffers from overly verbose explanations and tangential humor that sometimes obscures key points. Structure is weakened by inconsistent organization and abrupt transitions between sections, though the logical progression of topics remains sound overall.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 6,
+    "reasoning": "The article demonstrates strong technical depth with comprehensive coverage of LLM evaluation metrics and methodologies. The engaging, humorous writing style with creative analogies makes complex concepts accessible. However, clarity suffers from overly long sentences and tangential humor that sometimes obscures key points. Structure is weakened by inconsistent section organization and abrupt transitions, though the logical progression of topics remains sound overall.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 6,
+    "reasoning": "The article demonstrates strong technical depth with comprehensive coverage of LLM evaluation metrics and methodologies, from automated metrics like BLEU/ROUGE to human evaluation approaches. The engaging, conversational tone with humor and analogies makes complex technical content accessible and entertaining. However, clarity suffers from overly long sentences and dense paragraphs, while structure issues include inconsistent formatting, abrupt transitions, and some organizational problems that disrupt the logical flow. Despite these weaknesses, the valuable technical insights and highly engaging presentation style result in a solid overall quality.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 6,
+    "reasoning": "The article demonstrates strong technical depth with comprehensive coverage of LLM evaluation metrics and methodologies, from automated metrics like BLEU/ROUGE to human evaluation approaches. The engaging, conversational tone with humor and analogies makes complex technical content accessible and entertaining. However, clarity suffers from overly long sentences and dense paragraphs, while structure is weakened by inconsistent organization and some tangential content that disrupts the logical flow. Despite these issues, the valuable technical insights and highly engaging presentation style result in a solid overall quality.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

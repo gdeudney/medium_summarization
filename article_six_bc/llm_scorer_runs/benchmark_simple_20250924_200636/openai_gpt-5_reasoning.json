@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "Engaging and well-structured overview that accurately contrasts Inmon and Kimball and motivates the lakehouse, with only minor oversimplifications and heavy metaphors that slightly dilute precision."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 8,
+    "reasoning": "Engaging and accurate overview of Inmon vs. Kimball with clear pros/cons and a concise intro to the lakehouse, though heavy metaphors and some oversimplification limit depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "Engaging, well-structured, and largely accurate explanation of Inmon vs. Kimball leading to the lakehouse with clear pros/cons and practical framing, though the heavy metaphors and some glossed-over nuances slightly reduce precision."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "Engaging, accurate, and well-structured primer that clearly contrasts Inmon vs Kimball and motivates the lakehouse, though the heavy metaphors and light sourcing slightly limit rigor."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "Engaging, accurate, and well-structured primer that clearly contrasts Inmon vs. Kimball and motivates the lakehouse, though it leans on metaphors and glosses over some technical nuances."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 7,
+    "reasoning": "Engaging and practical with a sensible hybrid strategy and useful checklist, but it overstates the feasibility of running a full 120B model on dual 24GB GPUs and glosses over AMD/ROCm, quantization, and offloading nuances."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 7,
+    "reasoning": "Clear, engaging, and practical with a solid hybrid strategy and useful checklist, but it overstates the feasibility of running 120B models on dual 7900 XTXs and omits key caveats (quantization requirements, ROCm/OS constraints, and vLLM support on AMD), which could mislead less experienced readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 7,
+    "reasoning": "Engaging and well-structured with practical guidance, but it overstates feasible hardware capabilities (e.g., running a 120B model on dual 24GB GPUs) and glosses over some implementation details and tool compatibility nuances."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 7,
+    "reasoning": "Engaging and practical overview with a clear hybrid strategy and useful tips, but it overclaims hardware feasibility (e.g., ‘comfortably’ running 120B models on dual 7900 XTX) and leans on questionable future references, reducing credibility."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 6,
+    "reasoning": "Clear, engaging, and actionable guidance on a hybrid AI setup, but it includes questionable technical claims (e.g., running a full 120B model on 2×24GB GPUs) and lacks benchmarks/citations to support performance assertions."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 7,
+    "reasoning": "Engaging and accessible with useful technical highlights, but it leans on hype and unverified claims (e.g., licensing and benchmark/context details) with minimal sourcing and limited nuance about trade-offs."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 6,
+    "reasoning": "Engaging and clear with useful high-level explanations, but it leans heavily on hype, lacks citations for key claims, and likely contains inaccuracies (e.g., licensing/openness details), which undermines reliability."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 6,
+    "reasoning": "Engaging and accessible with useful technical highlights, but it leans on hype, offers limited sourcing for bold claims (benchmarks, licensing, token counts), and includes potential inaccuracies about openness and evaluation rigor."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 6,
+    "reasoning": "Engaging and well-structured with useful high-level insights, but it leans on hype and analogies, lacks rigorous sourcing for key claims, and likely misstates details such as licensing and open-weights availability."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 6,
+    "reasoning": "Engaging and accessible with some technical depth, but it leans on hype and unverified claims (e.g., licensing, benchmarks, parameters) with minimal sourcing, reducing credibility."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "Comprehensive and mostly accurate overview of LLM evaluation with practical insights, but verbosity, occasional formatting issues, and a few unclear or niche references (e.g., METEOR claims and RTE/HTD) slightly detract from clarity."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 7,
+    "reasoning": "Broad, largely accurate overview of LLM evaluation with useful caveats on safety and judging methods, but it’s verbose, occasionally imprecise (e.g., RTE/HTD), and light on concrete benchmarks and rigorous details."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "Comprehensive, engaging, and largely accurate overview of LLM evaluation with useful caveats, but it’s overly verbose and contains a few minor inaccuracies and organizational rough edges."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "Comprehensive and largely accurate overview of LLM evaluation with clear explanations and practical considerations, but it omits newer metrics (e.g., COMET, BLEURT), overstates METEOR, references less-established methods (RTE/HTD), and is occasionally distracted by verbose humor and minor typos."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 7,
+    "reasoning": "Comprehensive and engaging overview of LLM evaluation with useful breadth (metrics, human/LLM judging, production concerns), but weakened by verbosity, minor inaccuracies/imprecision, and occasional typos."
+  }
+]

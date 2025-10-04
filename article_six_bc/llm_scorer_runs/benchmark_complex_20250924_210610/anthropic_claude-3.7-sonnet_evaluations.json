@@ -1,0 +1,202 @@
+[
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with well-explained technical concepts using accessible analogies (Star Wars references). It demonstrates solid depth through its comprehensive comparison of Inmon and Kimball approaches, though could include more technical specifics. The engagement is exceptional with a conversational tone, humor, and creative metaphors that make complex data architecture concepts entertaining. The structure flows logically from introducing the conflict to explaining each approach, comparing them, and concluding with the modern resolution, with effective use of headings, tables, and a self-assessment checklist.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with well-explained technical concepts using accessible analogies (Star Wars references). It demonstrates solid depth through its comprehensive comparison of Inmon and Kimball approaches, though could include more technical specifics. The engagement is exceptional with a compelling narrative style, humor, and interactive elements. The structure flows logically from problem to competing solutions to modern resolution, with effective use of headings, tables, and a clear roadmap for future articles.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with well-explained technical concepts using accessible analogies (Star Wars references). It demonstrates solid depth through its comprehensive comparison of Inmon and Kimball approaches, though could include more technical specifics. The engagement is exceptional with a compelling narrative style, humor, and interactive elements. The structure flows logically from problem to competing solutions to modern resolution, with clear section headings and a helpful comparison table. Overall, it's an informative and highly entertaining technical article that successfully makes complex data architecture concepts accessible and engaging.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with well-explained technical concepts using accessible analogies (Star Wars references). It demonstrates solid depth through its comprehensive comparison of Inmon and Kimball approaches, though could include more technical specifics. The engagement is exceptional with a conversational tone, humor, and creative metaphors that make complex topics entertaining. The structure flows logically from introducing the conflict to explaining each approach, comparing them, and introducing the resolution, with effective use of headings, tables, and a concluding checklist that reinforces key points.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with well-explained technical concepts using accessible analogies (Star Wars references). It demonstrates solid depth through its comprehensive comparison of Inmon and Kimball approaches, though could include more technical specifics. The engagement is exceptional with a compelling narrative style, humor, and interactive elements. The structure flows logically from problem to competing solutions to modern resolution, with effective use of headings, tables, and a clear roadmap for future articles.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in clarity with accessible explanations of complex technical concepts and well-defined sections. It offers valuable insights on the hybrid AI approach with specific hardware recommendations and practical implementation steps. The engaging writing style uses humor, personal anecdotes, and vivid metaphors ('doomscrolling hardware forums at 3 AM') to maintain reader interest. The structure follows a logical progression from problem to solution, though some transitions between sections could be smoother. Overall, this is a high-quality technical article that balances informative content with engaging delivery.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in clarity with accessible explanations of complex technical concepts and well-defined sections. It offers valuable insights on the hybrid AI approach with specific hardware recommendations and practical implementation steps. The engaging writing style uses humor, personal anecdotes, and vivid metaphors ('doomscrolling hardware forums at 3 AM') to maintain reader interest. The structure follows a logical progression from problem to solution, though some transitions between sections could be smoother. Overall, this is a high-quality technical article that balances informative content with engaging delivery.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in clarity with accessible explanations of complex technical concepts and well-defined sections. It offers substantial depth through practical insights, real-world examples, and specific hardware recommendations. The engaging writing style uses humor, personal anecdotes, and vivid metaphors ('doomscrolling hardware forums at 3 AM') to maintain reader interest. The structure follows a logical progression from problem to solution, though some transitions between sections could be smoother. Overall, this is a high-quality piece that effectively balances technical information with engaging content.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in clarity with accessible explanations of complex technical concepts and well-defined sections. It offers valuable insights into the hybrid AI approach with specific hardware recommendations and practical implementation steps. The engaging writing style uses humor, personal anecdotes, and vivid metaphors ('doomscrolling hardware forums at 3 AM') to maintain reader interest. The structure follows a logical progression from problem to solution, though some transitions between sections could be smoother. Overall, this is a high-quality technical article that balances informative content with engaging delivery.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in clarity with accessible explanations of complex technical concepts and well-defined sections. It offers substantial depth through practical insights, real-world examples, and specific hardware recommendations. The engaging writing style uses humor, personal anecdotes, and vivid metaphors ('doomscrolling hardware forums at 3 AM') to maintain reader interest. The structure follows a logical progression from problem statement to solution implementation, though some transitions between sections could be smoother. Overall, this is a high-quality piece that effectively balances technical information with engaging content.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement (9) with its conversational tone, humor, and creative analogies (training montage, hot potato). It maintains good clarity (8) through accessible explanations of technical concepts and a logical progression. The structure (8) follows a coherent format with clear sections and subheadings that guide the reader. While it provides solid information about GLM-4.5's features and capabilities, the depth score (7) is slightly lower as some technical explanations could be more thorough, and the article occasionally prioritizes style over substantive analysis. Overall, it's a well-crafted, entertaining piece that effectively communicates its subject matter.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement (9) with its conversational tone, humor, and creative analogies (training montage, hot potato). It maintains good clarity (8) through accessible explanations of technical concepts and a logical progression. The structure (8) follows a coherent format with clear sections and transitions. While it provides solid information about GLM-4.5's features and capabilities, the depth score (7) is slightly lower as some technical explanations could be more thorough, and the article occasionally prioritizes style over substantive analysis. Overall, it's a well-crafted, entertaining piece that effectively communicates its subject matter.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement (9) with its conversational tone, humor, and creative analogies (training montage, hot potato). It maintains good clarity (8) through accessible explanations of technical concepts and a logical progression. The structure (8) follows a coherent format with clear sections and transitions. While it provides solid information about GLM-4.5's features and capabilities, the depth score (7) is slightly lower as some technical explanations could be more thorough, and the article occasionally prioritizes style over substantive analysis. Overall, it's a well-crafted, entertaining piece that effectively communicates its subject matter.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement (9) with its conversational tone, humor, and creative analogies (training montage, hot potato). It maintains good clarity (8) through accessible explanations of technical concepts and a logical progression. The structure (8) follows a coherent format with clear sections and transitions. While it provides solid information about GLM-4.5's features and capabilities, the depth score (7) is slightly lower as some technical explanations could be more thorough, and the article occasionally prioritizes style over substantive analysis. Overall, it's a well-crafted, entertaining piece that effectively introduces readers to GLM-4.5's capabilities.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement (9) with its conversational tone, humor, and creative analogies (training montage, hot potato). It maintains good clarity (8) through accessible explanations of technical concepts and a logical progression. The structure (8) follows a coherent format with clear sections and transitions. While it provides solid information about GLM-4.5's features and capabilities, the depth score (7) is slightly lower as some technical explanations could be more thorough, and the article occasionally prioritizes style over substantive analysis. Overall, it's a well-crafted, entertaining piece that effectively communicates its subject matter.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with clear explanations of complex metrics and methodologies. It demonstrates deep expertise, providing valuable insights into automated metrics, LLM-as-judge approaches, and nuanced capabilities evaluation. The engaging, conversational tone with humorous analogies maintains interest throughout. While generally well-structured with logical progression, some sections could benefit from tighter organization. Overall, it successfully balances technical depth with accessibility, making a complex topic approachable without sacrificing substance.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with clear explanations of complex metrics and methodologies. It demonstrates deep expertise, providing valuable insights into automated metrics, LLM-as-judge approaches, and nuanced evaluation aspects. The engaging, conversational tone with humorous analogies maintains interest throughout. While generally well-structured with logical progression, some sections could benefit from tighter organization. Overall, it successfully balances technical depth with accessibility, making a complex topic approachable without sacrificing substance.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in depth and engagement, offering valuable insights into LLM evaluation with technical details and practical applications. The conversational, humorous tone with quirky metaphors (squirrels, spaghetti) maintains reader interest throughout the lengthy piece. While generally well-structured with clear sections and bullet points, some transitions between topics could be smoother. The clarity is strong overall, though occasionally the informal style and parenthetical asides might slightly obscure key points for some readers. The comprehensive coverage of evaluation metrics, methodologies, and real-world considerations demonstrates expertise while remaining accessible.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with clear explanations of complex metrics and methodologies. It demonstrates deep expertise, providing valuable insights into automated metrics, LLM-as-judge approaches, and nuanced evaluation aspects. The engaging, conversational tone with humorous analogies maintains interest throughout. While generally well-structured with logical progression, some sections could benefit from tighter organization. Overall, it successfully balances technical depth with accessibility, making a complex topic approachable without sacrificing substance.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with clear explanations of complex metrics and methodologies. It demonstrates deep expertise, providing valuable insights into automated metrics, LLM-as-judge approaches, and nuanced capabilities evaluation. The engaging writing style uses humor and creative analogies (squirrels, spaghetti) to maintain interest throughout the lengthy piece. The structure follows a logical progression from why evaluation matters to specific metrics and methodologies, though some transitions between sections could be smoother. Overall, it successfully balances technical depth with accessibility and entertainment value.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid Star Wars metaphors to simplify complex data-architecture concepts without dumbing them down. Depth is solid—accurate historical context, comparison table, and pros/cons—but it stops short of technical implementation detail, keeping it introductory. Engagement is outstanding: conversational tone, pop-culture hooks, brisk pacing, and interactive checklist keep readers hooked. Structure is logical and coherent: each philosophy is introduced, explained, contrasted, and then resolved into the lakehouse concept, with smooth transitions and a teaser for the next installment.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid Star Wars metaphors to simplify complex data-architecture concepts without sacrificing accuracy. It offers solid historical context and a concise comparison table, demonstrating good (if not PhD-level) depth. Engagement is outstanding: the pop-culture framing, brisk pacing, and interactive checklist keep readers hooked. Structure is logical—each philosophy is introduced, explained, contrasted, and then resolved with the lakehouse—making the narrative easy to follow. The minor deduction in depth reflects that technical intricacies (e.g., normalization levels, lakehouse internals) are hinted at rather than deeply explored, but overall quality remains very high.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid Star Wars metaphors that make abstract data-architecture concepts instantly graspable. It offers solid historical context and a concise comparison table, giving readers non-trivial insight into why lakehouses emerged. The pop-culture framing and brisk pacing keep attention high throughout. Structure is logical: setup → two philosophies → comparison → resolution → teaser for next installment, with smooth transitions and consistent narrative voice.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid Star Wars metaphors to simplify complex data-architecture concepts without sacrificing accuracy. Its structure is logical, with smooth transitions from history to comparison to the lakehouse resolution. While the technical depth is solid for an introductory piece, it stops short of deeper implementation details, keeping the insight score slightly lower. Engagement is outstanding—the pop-culture framing, brisk pacing, and interactive checklist make it hard to put down.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid Star Wars metaphors that make abstract data concepts instantly graspable. While the technical depth is solid for an introductory piece, it stays at a conceptual level rather than diving into implementation details. Engagement is outstanding—the pop-culture framing, brisk pacing, and conversational tone keep the reader hooked. Structure is logical and coherent, with each philosophy cleanly presented, a comparative table, and a smooth transition to the lakehouse resolution. The overall score reflects a highly accessible, entertaining, and well-organized primer that sacrifices only a bit of technical depth for mass appeal.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear, using vivid analogies and humor without sacrificing precision. It offers concrete hardware guidance, personal benchmarks, and links to real-world vendor issues, demonstrating practical depth. The narrative pacing, relatable anecdotes (3 AM doomscrolling, latency meltdown), and visuals keep readers hooked. Logical flow from problem → two-tier concept → case study → checklist makes the structure airtight.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear, using vivid analogies and concise language to demystify a complex topic. It offers practical, experience-based depth (hardware splits, software choices, real latency meltdown) beyond generic advice. The conversational tone, humor, and personal case study keep engagement high throughout. Structure is logical: problem → two-tier solution → lived example → checklist, with smooth transitions and no dead ends.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear, using vivid analogies and humor without sacrificing precision. It offers concrete hardware guidance, personal anecdotes, and external citations, demonstrating practical depth. A lively tone and brisk pacing keep readers hooked, while the two-tier framework and checklist provide tight, logical structure.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and readable, using vivid analogies and humor without sacrificing precision. It offers concrete hardware guidance, personal anecdotes, and links to external evidence, demonstrating genuine expertise (depth). The conversational tone, brisk pacing, and relatable pain points keep readers hooked (engagement). Finally, the piece follows a logical three-act flow—problem, tiers, solution—supported by visuals and a practical checklist (structure). Minor nit: a couple of parenthetical jokes could trip non-native readers, but overall quality is very high.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear, using vivid analogies and humor without sacrificing precision. It offers concrete hardware guidance, personal benchmarks, and links to real-world vendor issues, demonstrating practical depth. The narrative pacing, relatable anecdotes (3-AM doomscrolling, latency meltdown), and visuals keep readers hooked. Finally, the two-tier framework, sliding-scale concept, and checklist create a tight, logical flow that builds seamlessly from problem to solution.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 7,
+    "engagement_score": 10,
+    "structure_score": 8,
+    "reasoning": "The article is exceptionally clear and readable, using vivid analogies and punchy prose that make dense technical ideas feel effortless. It is also highly engaging, with humor, pop-culture references, and a conversational tone that keeps the reader hooked from start to finish. Structural flow is logical—each section builds on the last, with clear headings and smooth transitions—though a few metaphor-heavy passages slightly dilute pure informational density. Depth is solid: it unpacks architectural choices, training details, and benchmarks beyond press-release level, but still stays more explainer than research paper, stopping short of truly novel insights or critical analysis. Overall, a fun, informative, well-crafted piece that balances entertainment with substance.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is highly readable and entertaining, with vivid analogies that make technical concepts accessible (Clarity 8). It offers solid technical detail on architecture and training, though not cutting-edge insider insight (Depth 7). The punchy, meme-laden style keeps attention high (Engagement 9). Sections follow a logical progression from intro to benchmarks to limitations and use-cases, with clear sub-heads (Structure 8). Overall, a strong, enjoyable explainer that balances substance with style.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is highly readable and entertaining, with vivid analogies that make technical concepts accessible (Clarity 8). It offers solid technical detail on architecture and training, though not cutting-edge insider insight (Depth 7). The punchy, meme-laden style keeps attention high (Engagement 9). Sections follow a logical progression from intro → tech → training → benchmarks → limitations → use-cases → conclusion, with clear sub-heads (Structure 8). Overall, a strong, enjoyable explainer that balances substance with style.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is punchy, humorous, and highly readable, with vivid analogies that make technical concepts accessible (Clarity 8). It offers solid technical detail on architecture, training, and benchmarks, though it stops short of deeper critical analysis or comparative nuance (Depth 7). Its fast pace, jokes, and pop-culture references keep attention high (Engagement 9). Headings, bullet lists, and a clear narrative arc give it strong coherence, despite occasional tangents (Structure 8). Overall, a lively, informative piece that balances entertainment with substance.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is highly readable and entertaining, with vivid analogies that make technical concepts accessible (Clarity 8). It offers solid technical detail on architecture and training, though not cutting-edge insider insight (Depth 7). The punchy, humorous style keeps attention high (Engagement 9). Sections follow a logical progression from intro to benchmarks to limitations and conclusion, with clear sub-heads (Structure 8). Overall, a strong, enjoyable explainer that balances fun with substance.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is highly engaging with a quirky, humorous voice that keeps the reader entertained. It offers solid, practical depth on LLM evaluation metrics and methodologies, though it stops short of cutting-edge research insights. Structurally, the piece is logically organized with clear headings, but the playful asides and pop-culture tangents occasionally disrupt the flow. Overall, it’s a strong, reader-friendly explainer that balances clarity and substance with entertaining style.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is highly engaging with a quirky, humorous voice that keeps the reader entertained (Engagement 9). Language is mostly clear and conversational, though occasional tangents and dense metric explanations slightly temper perfect clarity (Clarity 8). Depth is solid: it catalogs many evaluation metrics and angles, but insights stay at an introductory level without deep critical comparison or novel findings (Depth 7). Structure is logical—section headings guide the flow—but some topics repeat and transitions feel slightly loose, preventing a top score (Structure 7). Overall, an entertaining and informative primer that balances fun with substance.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is exceptionally clear and readable despite its playful tone; technical concepts are explained with vivid analogies that aid comprehension. Depth is strong: it covers safety, compliance, metrics (classic and modern), bias, cost, observability, and human factors—well beyond a surface-level list. Engagement is high thanks to humor, pacing, and relatable examples that keep the reader hooked. Structure is logical (why evaluate → metrics → nuanced capabilities → transparency → human eval → intrinsic/extrinsic → other factors → conclusion), though the sheer number of subsections and parenthetical asides occasionally fragments the flow. Overall, a thorough, entertaining, and expert piece that only minorly suffers from its own exuberant length.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is exceptionally clear and readable despite its playful tone; technical concepts are explained with vivid analogies that aid rather than hinder comprehension. Depth is high: it moves from business rationale through a comprehensive catalog of metrics, advanced paradigms (LLM-as-judge, intrinsic/extrinsic, bias, observability), and practical caveats, giving actionable insight beyond surface summaries. Engagement is sustained by humor, conversational asides, and pop-culture nods that keep a long piece lively without derailing focus. Structure is logical—each section flows from motivation → automated metrics → AI judges → nuanced capabilities → transparency → human eval → intrinsic/extrinsic → other factors → conclusion—but the sheer length and nested subsections occasionally make navigation dense, preventing a perfect score. Overall, an authoritative yet entertaining deep-dive that balances substance with style.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article is exceptionally clear and readable despite its playful tone; technical concepts are explained with vivid analogies that aid rather than hinder comprehension. Depth is strong: it moves from high-level motivation through concrete automated metrics, advanced paradigms (LLM-as-judge, intrinsic vs extrinsic), and real-world concerns like bias, cost, and observability. Engagement is high thanks to humor, pacing, and conversational hooks, though the relentless whimsy may fatigue some readers. Structure is logical—each section builds on the last—but the nesting of subsections and occasional repeated intros create minor redundancy. Overall, a thorough, entertaining primer that balances substance with style.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

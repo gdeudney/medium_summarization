@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article masterfully blends pop-culture metaphors with accurate technical exposition, making a complex topic engaging and memorable without sacrificing depth or clarity."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "Engaging, memorable Star-Wars metaphor makes a dry topic fun without sacrificing technical accuracy, structure, or actionable insight."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is an engaging, well-structured primer that cleverly uses pop-culture metaphors to make complex data-architecture history and concepts memorable, while still delivering accurate technical distinctions and setting up the lakehouse payoff."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is an engaging, technically accurate primer that uses vivid pop-culture metaphors to make complex data-architecture history memorable without sacrificing clarity or depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "Engaging, meme-rich prose makes a dry topic memorable while still delivering accurate technical distinctions and a clear narrative arc toward the lakehouse resolution."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, practical, and well-structured, blending humor with actionable advice and real-world examples to effectively guide readers through a hybrid AI setup."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, practical, and well-structured, blending humor with actionable advice while citing real risks and providing concrete hardware/software guidance."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "Engaging, practical, and well-structured guide that balances humor with actionable advice on hybrid AI deployment."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, practical, and well-structured, blending humor with actionable advice while addressing real pain points like cost, privacy, and vendor lock-in, though it could benefit from deeper technical benchmarks or citations."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "Engaging, practical, and well-structured guide that balances humor with actionable advice, though it could benefit from deeper technical depth and broader hardware options."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "Lively, meme-heavy prose that demystifies dense tech via punchy analogies and benchmarks, yet stays informative, balanced, and actionable for devs and businesses."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "Engaging, well-structured, and technically informative with vivid analogies and clear takeaways, though slightly hyperbolic and lacking deeper critical analysis."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "Vivid, meme-laden prose keeps the reader engaged while still delivering solid technical detail, benchmark data, and practical takeaways—though the relentless snark occasionally overshadows nuance."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is engaging, technically informative, and well-structured, though its casual tone and occasional overuse of metaphors slightly dilute its professionalism."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "Vivid, meme-heavy prose keeps the piece entertaining while still delivering solid technical detail, clear benchmarks, and actionable takeaways—only minor oversimplifications and a slightly click-bait headline hold it back from perfection."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is an engaging, comprehensive, and technically accurate guide to LLM evaluation, balancing humor with deep coverage of metrics, safety, and practical considerations—only minor typos and a slight over-reliance on quirky asides keep it from perfection."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "Comprehensive, witty, and technically accurate deep-dive into LLM evaluation that balances humor with actionable detail, though its length and pop-culture tangents may fatigue some readers."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is an engaging, comprehensive, and technically accurate deep-dive into LLM evaluation, balancing humor with actionable detail, though its length and casual tone may deter some readers."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "Comprehensive, witty, and technically accurate deep-dive that demystifies LLM evaluation while remaining engaging and actionable."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is an engaging, comprehensive, and technically accurate deep-dive into LLM evaluation, balancing humor with actionable detail, though its dense length and quirky style may mildly fatigue some readers."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement through its creative Star Wars analogy and compelling narrative, making a technical topic highly accessible. Clarity and Structure are also strong, with a logical flow from problem to resolution and effective use of a comparison table. Depth is very good, providing a solid historical and conceptual foundation, though it serves more as an introduction, leaving deeper technical details for a future piece.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) through its compelling narrative and analogies. Clarity (9) and Structure (9) are strong, with a logical flow and clear explanations of complex topics. Depth (8) is very good, providing valuable insights into data philosophies, though it serves more as an introduction, leaving deeper technical details for a future piece.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in Clarity and Engagement through its vivid 'Star Wars' analogy, making complex concepts accessible and entertaining. Its Structure is logical and coherent, guiding the reader from the historical conflict to the modern resolution. Depth is strong, providing a solid, expert overview of the core philosophies, though it serves more as an introduction, leaving deeper technical exploration for future articles. The overall quality is high.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in Clarity and Engagement through its masterful use of a Star Wars analogy, making complex architectural concepts highly accessible and entertaining. Its Structure is logical and coherent, guiding the reader from the historical conflict to the modern resolution. The Depth is strong, providing a substantive comparison of the two philosophies, though it serves more as an introduction, saving deeper technical details for a future piece. The overall quality is excellent.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "This article excels across all pillars. It uses vivid analogies (Star Wars) to explain complex concepts with exceptional clarity and engagement. It demonstrates significant depth by tracing the historical context of data architecture and connecting it to modern solutions. The structure is logical, with clear sections, a helpful comparison table, and a compelling narrative flow that builds towards the introduction of the lakehouse concept.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in Clarity and Engagement through its conversational yet informative tone, vivid metaphors, and personal anecdotes. It demonstrates strong Depth by providing a practical, non-obvious hybrid strategy with specific hardware/software examples and a case study. The Structure is coherent and logical, moving from problem definition to a two-tiered solution, a case study, and a practical checklist, creating a seamless flow.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in Depth & Insight by providing a practical, expert-level strategy with specific hardware and software examples. It is highly Engaging due to its conversational tone, relatable anecdotes, and well-paced structure. The logical progression from problem statement to solution, supported by a clear checklist, ensures strong Structure & Coherence. Clarity is slightly impacted by a few informal asides, but the core message remains clear and actionable.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in Depth & Insight by providing a practical, expert-level strategy with a compelling case study and specific hardware/software recommendations. It is highly Engaging due to its witty tone and relatable scenarios. The Structure & Coherence is excellent, with a clear two-tiered framework and a helpful checklist. Clarity is slightly impacted by a few overly informal asides, but the core concepts are communicated effectively.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in providing a deep, insightful, and practical guide to a hybrid AI strategy, supported by a personal case study and specific technical examples. It is highly engaging with a conversational tone and well-structured with a clear logical flow from problem statement to solution and implementation checklist. The clarity is slightly impacted by a few overly informal asides, but the core message remains strong and accessible.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in Depth & Insight and Engagement, offering a practical, expert perspective on a hybrid AI strategy with a compelling personal case study and specific technical advice. Clarity and Structure are strong, with a logical flow and clear language, though minor tangents slightly impact the score. The overall quality is high.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) with a witty, energetic tone and excellent pacing. It demonstrates significant Depth (9) by explaining complex technical concepts like 'loss-free balance routing' and 'sigmoid gating' in an accessible way. The Structure (9) is logical, moving from an introduction to technical details, performance, and practical applications. Clarity (8) is strong, though some analogies, while creative, may slightly obscure the core technical point for a non-technical reader. The overall quality is high.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) with a witty, conversational tone and excellent pacing. It demonstrates significant Depth (9) by explaining complex technical concepts like 'loss-free balance routing' and 'sigmoid gating' in an accessible way. The Structure (9) is logical and clear, guiding the reader from introduction to technical details to practical applications. Clarity (8) is high, though some analogies, while creative, may slightly obscure the core technical point for a non-technical reader. The overall quality is excellent.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) with a witty, energetic tone and excellent pacing. It demonstrates significant Depth (9) by explaining complex technical concepts like 'loss-free balance routing' and the training process in an accessible way. The Structure (9) is logical and clear, guiding the reader from introduction to technical details to practical applications. Clarity (8) is strong, though some analogies, while creative, may be slightly convoluted for a complete novice. The overall quality is high, making a technical subject both informative and highly entertaining.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) with a witty, energetic tone and excellent pacing. It demonstrates significant Depth (9) by explaining complex technical concepts like 'loss-free balance routing' and the training process in an accessible way. The Structure (9) is logical and clear, guiding the reader from introduction to technical details to practical applications. Clarity (8) is high, though some analogies, while creative, may slightly obscure the core technical point for a non-technical reader. The overall quality is excellent.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in Engagement (10) with a witty, energetic tone and excellent pacing. It demonstrates significant Depth (9) by explaining complex technical concepts like 'loss-free balance routing' and the training process in an accessible way. The Structure (9) is logical and clear, guiding the reader from introduction to technical details to practical applications. Clarity (8) is strong, though some analogies, while creative, may slightly obscure the technical points for a non-technical audience. The overall quality is high, making a technical subject both informative and highly entertaining.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in Depth & Insight, providing a comprehensive and expert-level overview of LLM evaluation. It is highly engaging with a unique, humorous voice that maintains reader interest. Clarity and Structure are strong, with a logical flow and clear explanations of complex concepts, though the conversational style occasionally leads to minor tangents that slightly impact structural coherence.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in Depth & Insight and Engagement, providing a comprehensive and nuanced overview of LLM evaluation with a unique, witty voice that holds attention. Clarity and Structure are strong, with a logical flow, though the conversational style occasionally introduces minor tangents that slightly impact conciseness and structural tightness. The overall quality is high, making a complex topic accessible and interesting.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in Depth & Insight, providing a comprehensive and expert-level overview of LLM evaluation. It is highly engaging with a unique, humorous voice. The structure is logical but occasionally meanders due to the conversational style, which also slightly impacts clarity by making some explanations more verbose than necessary. The overall quality is high, balancing educational value with an entertaining delivery.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in Depth & Insight, providing a comprehensive and expert-level overview of LLM evaluation. It is highly engaging with a unique, humorous voice. The structure is logical but occasionally meanders due to the conversational style, which also slightly impacts Clarity by making some explanations less concise than they could be.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article excels in Engagement (9) with a highly conversational and witty tone that holds attention. It demonstrates significant Depth (8) by thoroughly explaining complex LLM evaluation concepts with specific examples and metrics. However, the very style that boosts engagement sometimes compromises Clarity (7) and Structure (7); the dense, informal prose and numerous asides can make the logical flow harder to follow, and the sheer volume of information is somewhat overwhelming despite the clear section headings.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article excels in engaging storytelling, clear technical explanations, and effective use of analogies to demystify complex data architecture concepts, though it slightly oversimplifies the Inmon-Kimball dichotomy for dramatic effect."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and educational value by using vivid analogies and a structured comparison to explain complex data architecture concepts, though it slightly oversimplifies the Inmon-Kimball debate for dramatic effect."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and educational value by using vivid analogies and a structured comparison to explain complex data architecture concepts, though it slightly oversimplifies the Inmon-Kimball debate for dramatic effect."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article effectively combines engaging storytelling with clear, accurate technical explanations of data architecture philosophies and their evolution, making complex concepts accessible without sacrificing depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively uses analogies to explain complex data architecture concepts, though slightly exaggerated metaphors may distract some readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, offering a clear hybrid AI strategy with practical insights and real-world examples, though slightly limited in technical depth for advanced readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, offering a clear hybrid AI strategy with practical insights and real-world relevance, though minor improvements in clarity and image references could enhance it."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article provides a well-structured, insightful, and practical guide to a hybrid AI strategy, combining technical depth with engaging writing, though minor improvements in clarity and image references could enhance it further."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is well-written, informative, and engaging, offering a clear hybrid AI strategy with practical insights, though it slightly overuses humor and lacks deeper technical exploration of security or model quantization."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-written, informative, and engaging, offering a clear hybrid AI strategy with practical insights and real-world examples, though it could benefit from slightly more technical depth."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively communicates technical details with humor and clarity, though it slightly oversimplifies some concepts and relies on placeholder images without descriptive alt text."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively communicates technical details with humor and clarity, though it slightly oversimplifies some concepts and relies on placeholder images without descriptive alt text."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively communicates technical details with humor and clarity, though it slightly oversimplifies some concepts and relies on placeholder images without descriptive alt text."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively communicates technical details with humor and clarity, though it slightly oversimplifies some concepts and relies on placeholder images without descriptive alt text."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively communicates technical details with humor and clarity, though it occasionally sacrifices depth for style."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive, engaging, and well-structured overview of LLM evaluation with clear explanations of key metrics and methodologies, balanced by humor and practical insights, though it occasionally sacrifices technical depth for entertainment."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is highly informative, engaging, and comprehensive in explaining LLM evaluation with clear examples and a cohesive narrative, though slightly informal for some academic contexts."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive, engaging, and well-structured overview of LLM evaluation with clear explanations of key metrics and methodologies, balanced by humor and practical insights, though slightly verbose in places."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive, engaging, and well-structured overview of LLM evaluation with clear explanations of key metrics and methodologies, balanced by humor and practical insights, though slightly verbose in places."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging, and well-structured overview of LLM evaluation with practical insights and appropriate humor, though it occasionally sacrifices technical depth for entertainment."
+  }
+]

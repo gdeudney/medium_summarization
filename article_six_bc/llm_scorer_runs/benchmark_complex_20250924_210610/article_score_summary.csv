@@ -1,0 +1,77 @@
+scorer_model,article_id,mean_score,std_dev
+x-ai/grok-4,Data Articles 1,9.0,0.0
+x-ai/grok-4,Frankenlab_upgrade,9.0,0.0
+x-ai/grok-4,GLM4.5,8.8,0.39999999999999997
+x-ai/grok-4,LLM evaluation fundatmentals,8.0,0.0
+x-ai/grok-3,Data Articles 1,9.0,0.0
+x-ai/grok-3,Frankenlab_upgrade,8.0,0.0
+x-ai/grok-3,GLM4.5,8.0,0.0
+x-ai/grok-3,LLM evaluation fundatmentals,7.0,0.0
+google/gemini-2.0-flash-001,Data Articles 1,8.0,0.0
+google/gemini-2.0-flash-001,Frankenlab_upgrade,7.0,0.0
+google/gemini-2.0-flash-001,GLM4.5,7.0,0.0
+google/gemini-2.0-flash-001,LLM evaluation fundatmentals,7.0,0.0
+google/gemini-2.5-flash,Data Articles 1,9.0,0.0
+google/gemini-2.5-flash,Frankenlab_upgrade,9.0,0.0
+google/gemini-2.5-flash,GLM4.5,9.0,0.0
+google/gemini-2.5-flash,LLM evaluation fundatmentals,9.0,0.0
+openai/gpt-4,Data Articles 1,8.2,0.39999999999999997
+openai/gpt-4,Frankenlab_upgrade,8.0,0.0
+openai/gpt-4,GLM4.5,8.0,0.0
+openai/gpt-4,LLM evaluation fundatmentals,7.0,0.0
+openai/gpt-4.1,Data Articles 1,9.0,0.0
+openai/gpt-4.1,Frankenlab_upgrade,9.0,0.0
+openai/gpt-4.1,GLM4.5,9.0,0.0
+openai/gpt-4.1,LLM evaluation fundatmentals,9.0,0.0
+openai/gpt-5,Data Articles 1,8.2,0.39999999999999997
+openai/gpt-5,Frankenlab_upgrade,8.0,0.0
+openai/gpt-5,GLM4.5,7.8,0.39999999999999997
+openai/gpt-5,LLM evaluation fundatmentals,7.6,0.48989794855663565
+moonshotai/kimi-k2,Data Articles 1,9.0,0.0
+moonshotai/kimi-k2,Frankenlab_upgrade,8.8,0.39999999999999997
+moonshotai/kimi-k2,GLM4.5,8.2,0.39999999999999997
+moonshotai/kimi-k2,LLM evaluation fundatmentals,8.2,0.39999999999999997
+moonshotai/kimi-k2-0905,Data Articles 1,9.0,0.0
+moonshotai/kimi-k2-0905,Frankenlab_upgrade,9.0,0.0
+moonshotai/kimi-k2-0905,GLM4.5,8.0,0.0
+moonshotai/kimi-k2-0905,LLM evaluation fundatmentals,8.2,0.39999999999999997
+anthropic/claude-3.5-sonnet,Data Articles 1,9.0,0.0
+anthropic/claude-3.5-sonnet,Frankenlab_upgrade,9.0,0.0
+anthropic/claude-3.5-sonnet,GLM4.5,8.6,0.48989794855663565
+anthropic/claude-3.5-sonnet,LLM evaluation fundatmentals,8.0,0.0
+anthropic/claude-3.7-sonnet,Data Articles 1,9.0,0.0
+anthropic/claude-3.7-sonnet,Frankenlab_upgrade,9.0,0.0
+anthropic/claude-3.7-sonnet,GLM4.5,8.0,0.0
+anthropic/claude-3.7-sonnet,LLM evaluation fundatmentals,8.2,0.39999999999999997
+anthropic/claude-sonnet-4,Data Articles 1,8.0,0.0
+anthropic/claude-sonnet-4,Frankenlab_upgrade,8.0,0.0
+anthropic/claude-sonnet-4,GLM4.5,7.0,0.0
+anthropic/claude-sonnet-4,LLM evaluation fundatmentals,8.0,0.0
+deepseek/deepseek-chat-v3.1,Data Articles 1,9.0,0.0
+deepseek/deepseek-chat-v3.1,Frankenlab_upgrade,8.8,0.4
+deepseek/deepseek-chat-v3.1,GLM4.5,8.8,0.39999999999999997
+deepseek/deepseek-chat-v3.1,LLM evaluation fundatmentals,8.6,0.48989794855663565
+deepseek/deepseek-v3.1-terminus,Data Articles 1,9.0,0.0
+deepseek/deepseek-v3.1-terminus,Frankenlab_upgrade,9.0,0.0
+deepseek/deepseek-v3.1-terminus,GLM4.5,9.0,0.0
+deepseek/deepseek-v3.1-terminus,LLM evaluation fundatmentals,8.4,0.48989794855663565
+qwen/qwen3-30b-a3b,Data Articles 1,8.6,0.4898979485566356
+qwen/qwen3-30b-a3b,Frankenlab_upgrade,7.0,0.0
+qwen/qwen3-30b-a3b,GLM4.5,7.4,0.48989794855663565
+qwen/qwen3-30b-a3b,LLM evaluation fundatmentals,8.0,0.0
+qwen/qwen3-30b-a3b-instruct-2507,Data Articles 1,9.0,0.0
+qwen/qwen3-30b-a3b-instruct-2507,Frankenlab_upgrade,8.6,0.48989794855663565
+qwen/qwen3-30b-a3b-instruct-2507,GLM4.5,9.0,0.0
+qwen/qwen3-30b-a3b-instruct-2507,LLM evaluation fundatmentals,9.0,0.0
+qwen/qwen3-235b-a22b,Data Articles 1,8.6,0.48989794855663565
+qwen/qwen3-235b-a22b,Frankenlab_upgrade,9.0,0.0
+qwen/qwen3-235b-a22b,GLM4.5,8.2,0.39999999999999997
+qwen/qwen3-235b-a22b,LLM evaluation fundatmentals,8.0,0.0
+qwen/qwen3-235b-a22b-2507,Data Articles 1,9.0,0.0
+qwen/qwen3-235b-a22b-2507,Frankenlab_upgrade,9.0,0.0
+qwen/qwen3-235b-a22b-2507,GLM4.5,9.0,0.0
+qwen/qwen3-235b-a22b-2507,LLM evaluation fundatmentals,8.2,0.39999999999999997
+qwen/qwen3-next-80b-a3b-instruct,Data Articles 1,9.2,0.39999999999999997
+qwen/qwen3-next-80b-a3b-instruct,Frankenlab_upgrade,9.0,0.0
+qwen/qwen3-next-80b-a3b-instruct,GLM4.5,9.0,0.0
+qwen/qwen3-next-80b-a3b-instruct,LLM evaluation fundatmentals,8.0,0.0

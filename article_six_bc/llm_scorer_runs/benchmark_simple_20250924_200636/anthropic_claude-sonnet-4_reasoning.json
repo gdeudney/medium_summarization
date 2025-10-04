@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article effectively uses engaging Star Wars metaphors to explain complex data architecture concepts, making technical material accessible while maintaining accuracy and providing practical value through clear comparisons and actionable insights."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article effectively combines technical accuracy with engaging Star Wars metaphors to make complex data architecture concepts accessible, though the extended analogies occasionally overshadow the core technical content."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article effectively combines technical accuracy with engaging Star Wars metaphors to make complex data architecture concepts accessible, though the extended analogies occasionally overshadow the core technical content."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article effectively uses engaging Star Wars metaphors to explain complex data architecture concepts, making technical material accessible while maintaining accuracy and providing practical value through clear comparisons and actionable insights."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article effectively combines technical accuracy with engaging Star Wars metaphors to make complex data architecture concepts accessible, though the extended analogies occasionally overshadow the core technical content."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 7,
+    "reasoning": "The article provides practical, well-structured advice on hybrid AI infrastructure with clear examples and actionable steps, though it suffers from some informal tone inconsistencies and contains factual errors like referencing non-existent future events."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 7,
+    "reasoning": "The article provides practical, well-structured advice on hybrid AI infrastructure with clear examples and actionable steps, though it suffers from some informal tone inconsistencies and contains factual errors like referencing non-existent future events."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 7,
+    "reasoning": "The article provides practical, well-structured advice on hybrid AI infrastructure with clear examples and actionable steps, though it suffers from some informal tone inconsistencies and contains factual errors in the referenced links that detract from its credibility."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 7,
+    "reasoning": "The article provides valuable practical insights on hybrid AI infrastructure with clear examples and actionable advice, though it suffers from some informal tone inconsistencies and contains factual errors like referencing non-existent future events."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 7,
+    "reasoning": "The article provides valuable practical insights on hybrid AI infrastructure with clear examples and actionable advice, though it suffers from some informal tone inconsistencies and contains apparent factual errors (like referencing future dates and a non-existent ChatGPT 5 release)."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 7,
+    "reasoning": "The article provides comprehensive technical information about GLM-4.5 with engaging analogies and humor, though the overly casual tone and excessive metaphors sometimes detract from the technical credibility and could alienate readers seeking straightforward analysis."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 7,
+    "reasoning": "The article provides comprehensive technical information about GLM-4.5 with engaging analogies and humor, though the overly casual tone and excessive metaphors sometimes detract from the technical credibility and professional presentation."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 7,
+    "reasoning": "The article provides comprehensive technical information about GLM-4.5 with engaging analogies and humor, though the overly casual tone and excessive metaphors sometimes detract from the technical credibility and could alienate readers seeking straightforward analysis."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 7,
+    "reasoning": "The article provides comprehensive technical information about GLM-4.5 with engaging analogies and humor, though the overly casual tone and excessive metaphors sometimes detract from the technical credibility and professional presentation."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 7,
+    "reasoning": "The article provides comprehensive technical information about GLM-4.5 with engaging analogies and humor, though the overly casual tone and excessive metaphors sometimes detract from the professional presentation of complex AI concepts."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 7,
+    "reasoning": "The article provides comprehensive and technically accurate coverage of LLM evaluation methods with engaging writing, but the overly casual tone and excessive humor sometimes detract from the technical content's clarity and professionalism."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 7,
+    "reasoning": "The article provides comprehensive and technically accurate coverage of LLM evaluation methods with engaging writing, but the overly casual tone with excessive humor and tangential asides detracts from its professional credibility and readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 7,
+    "reasoning": "The article provides comprehensive and technically accurate coverage of LLM evaluation methods with engaging writing, but the overly casual tone and excessive humor sometimes detract from the technical content's clarity and professionalism."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 7,
+    "reasoning": "The article provides comprehensive and technically accurate coverage of LLM evaluation metrics with engaging writing, but the overly casual tone with excessive humor and tangential asides detracts from its professional credibility and readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 7,
+    "reasoning": "The article provides comprehensive and technically accurate coverage of LLM evaluation methods with engaging writing, but the overly casual tone with excessive humor and tangential asides detracts from its credibility and professional presentation of important technical concepts."
+  }
+]
