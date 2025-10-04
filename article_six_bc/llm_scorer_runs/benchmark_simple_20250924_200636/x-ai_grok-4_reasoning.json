@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging Star Wars analogies, clear comparisons, and a structured format, though it could benefit from more technical depth in places."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging Star Wars analogies, clear comparisons, and structured content, though it includes a subtle promotion for Databricks."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article masterfully uses engaging Star Wars analogies to explain complex data architecture concepts clearly and entertainingly, making it highly informative and accessible, though it includes a subtle promotion for Databricks."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, informative, and well-structured with creative analogies that make complex data architecture concepts accessible, though slightly promotional towards the lakehouse model."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, informative, and well-structured with creative analogies that make complex data architecture concepts accessible, though it could benefit from more technical depth in places."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging with practical advice on hybrid AI setups, though it includes some informal humor and minor typos that slightly detract from professionalism."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, offering practical advice on hybrid AI systems with humor and real-world examples, though it has minor informal elements and hypothetical references."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and provides practical, balanced advice on hybrid AI setups with humor and useful examples, though it could include more diverse hardware options."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging with practical advice on hybrid AI systems, though it has minor informal asides and could use slight polishing for professionalism."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, providing practical advice on hybrid AI setups with humor and real-world examples, though it could benefit from more technical depth in some areas."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and well-structured with humor and balanced insights, though it leans promotional."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, informative, and well-structured, blending technical details with humor to provide a balanced and accessible overview of GLM-4.5."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, informative, and well-structured, blending humor with technical details to effectively explain GLM-4.5 while acknowledging limitations."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article effectively combines informative technical details with engaging humor and analogies, providing a balanced overview of GLM-4.5 while encouraging reader interaction."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides an engaging, humorous, and informative overview of GLM-4.5 with clear structure and balanced insights, though its casual tone and promotional elements slightly detract from objectivity."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging overview of LLM evaluation metrics and methodologies with humor and practical insights, though it occasionally rambles and could benefit from tighter editing."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and comprehensive in covering LLM evaluation topics with humor, but it has some minor typos and could be more concise."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging overview of LLM evaluation metrics and methodologies with humor and practical insights, though it occasionally veers into overly casual tangents that slightly dilute its focus."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging overview of LLM evaluation metrics and methodologies with humor and practical insights, though it occasionally rambles and has minor typos."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging overview of LLM evaluation metrics and methodologies with humor and practical insights, though it has some minor typos and could benefit from tighter editing."
+  }
+]

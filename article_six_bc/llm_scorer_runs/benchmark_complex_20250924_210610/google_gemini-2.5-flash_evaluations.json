@@ -1,0 +1,202 @@
+[
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative use of Star Wars analogies, making complex technical concepts accessible and interesting. It demonstrates strong clarity and readability, breaking down the Inmon and Kimball philosophies effectively. The depth is good, providing a solid foundation for understanding data architecture, and the structure is logical and coherent, leading smoothly to the introduction of the data lakehouse. The overall score reflects its high quality across all pillars.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative use of Star Wars analogies, making complex technical concepts accessible and interesting. It demonstrates strong clarity and readability, breaking down intricate data architecture philosophies into digestible sections. The depth is commendable, offering a thorough comparison of Inmon and Kimball while introducing the modern lakehouse concept. Its structure is logical and coherent, guiding the reader smoothly through the historical context, contrasting philosophies, and future directions. The overall score reflects its high quality across all pillars.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative use of Star Wars analogies, making complex technical concepts accessible and interesting. It demonstrates strong clarity and readability, breaking down the Inmon and Kimball philosophies effectively. The depth is good, providing a solid foundation for understanding data architecture, and the structure is logical and coherent, leading smoothly to the introduction of the data lakehouse. The overall score reflects its high quality across all pillars.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative use of Star Wars analogies, making complex technical concepts accessible and interesting. It demonstrates strong clarity and readability, breaking down the Inmon and Kimball philosophies effectively. The depth is good, providing a solid foundation for understanding data architecture, and the structure is logical and coherent, leading smoothly to the introduction of the data lakehouse. The overall score reflects its high quality across all pillars.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative use of Star Wars analogies, making complex technical concepts accessible and interesting. It demonstrates strong clarity and readability, breaking down the Inmon and Kimball philosophies effectively. The depth is good, providing a solid foundation for understanding data architecture, and the structure is logical and coherent, leading smoothly to the introduction of the data lakehouse. The overall score reflects its high quality across all pillars.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 8,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and well-structured, making complex technical concepts accessible. It provides valuable insights into a hybrid AI strategy, demonstrating expertise. While engaging, some of the humor might not land with all readers, slightly impacting the engagement score. Overall, it's a high-quality, informative piece.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 8,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and well-structured, making complex technical concepts accessible. It provides valuable insights into a hybrid AI strategy, demonstrating expertise. While engaging, some of the humor might not land with all readers, slightly impacting engagement. Overall, it's a high-quality, informative piece.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 8,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and well-structured, making complex technical concepts accessible. It provides valuable insights into a hybrid AI strategy, demonstrating expertise. While engaging, some of the humor might not land with all readers, slightly impacting engagement for a broader audience. Overall, it's a high-quality, informative piece.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 8,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and well-structured, making complex technical concepts accessible. It provides valuable insights into a hybrid AI strategy, demonstrating expertise. While engaging, some of the humor might not land with all readers, slightly impacting engagement for a broader audience. The overall flow is logical and easy to follow.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 8,
+    "structure_score": 9,
+    "reasoning": "The article is exceptionally clear and well-structured, making complex technical concepts accessible. It provides valuable insights into a hybrid AI strategy, demonstrating expertise. While engaging, some of the humor might not land with all readers, slightly impacting engagement for a broader audience. The overall flow is logical and easy to follow.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity, using accessible language and engaging analogies to explain complex AI concepts. It provides good depth by detailing GLM-4.5's unique features and training, while maintaining high engagement through its witty tone and relatable comparisons. The structure is logical and easy to follow, making it a well-rounded and informative piece.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity, using accessible language and engaging analogies to explain complex AI concepts. It provides good depth by detailing GLM-4.5's unique architectural choices and training methods. The writing style is highly engaging, maintaining reader interest with humor and vivid descriptions. The structure is logical and coherent, guiding the reader smoothly through the model's features, training, performance, and limitations. The overall score reflects its strong performance across all pillars.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity, using accessible language and engaging analogies to explain complex AI concepts. It provides good depth by detailing GLM-4.5's unique features and training, while maintaining high engagement through its witty tone and relatable comparisons. The structure is logical and easy to follow, making it a well-rounded and informative piece.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity, using accessible language and engaging analogies to explain complex AI concepts. It provides good depth by detailing GLM-4.5's unique features and training, while maintaining high engagement through its witty and conversational tone. The structure is logical and easy to follow, making it a well-rounded and informative piece.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity, using accessible language and engaging analogies to explain complex AI concepts. It provides good depth by detailing the unique architectural and training aspects of GLM-4.5. The writing style is highly engaging, maintaining reader interest with humor and vivid descriptions. The structure is logical and coherent, guiding the reader smoothly through the model's features, training, performance, and limitations.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement and depth, making complex topics accessible and interesting with a conversational tone and relatable analogies. While generally clear, some sections could be slightly more concise. The structure is logical, guiding the reader through various evaluation aspects effectively.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement and depth, making complex topics accessible and interesting with a conversational tone and relatable analogies. While generally clear, some sections could be slightly more concise. The structure is logical, guiding the reader through various evaluation aspects effectively.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement and depth, making complex topics accessible and interesting through a conversational tone and relatable analogies. While generally clear and well-structured, some sections could benefit from slightly more concise language to enhance readability further. The overall flow is logical, guiding the reader through various evaluation aspects effectively.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement and depth, making complex topics accessible and interesting through a conversational tone and relatable analogies. While generally clear and well-structured, some sections could benefit from slightly more concise language to enhance readability further. The overall flow is logical, guiding the reader through various evaluation aspects effectively.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement and depth, making complex topics accessible and interesting with a conversational tone and relatable analogies. While generally clear and well-structured, some sections could benefit from slightly more concise language to enhance readability further. The overall flow is logical, guiding the reader through various evaluation aspects effectively.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

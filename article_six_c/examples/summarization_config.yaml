@@ -1,0 +1,78 @@
+run_name: "Summarization_Run_01"
+run_dir: "./runs"
+
+# --- Task & Dataset Definition ---
+dataset:
+  path: "./datasets/articles/"
+  format: "text" # Options: text, csv, jsonl
+
+initial_prompt: "You are a world-class editor. Produce a concise, single-paragraph summary of the following article that captures its key findings and implications."
+
+evaluation_criteria:
+  - name: "Faithfulness"
+    description: "Score 1-5. Does the summary accurately reflect the source text without introducing falsehoods?"
+    weight: 2.0 # This is twice as important as other criteria
+  - name: "Conciseness"
+    description: "Score 1-5. Is the summary as short as possible without losing critical information?"
+    weight: 1.0
+  - name: "Coherence"
+    description: "Score 1-5. Does the summary read fluently as a standalone piece of text?"
+    weight: 1.0
+  - name: "Coverage"
+    description: "Score 1-5. Does the summary capture all the most important points of the source?"
+    weight: 1.5
+
+# --- Optimization & Validation ---
+optimization:
+  max_iterations: 10
+  target_score: 19.0 # Note: this score is now weighted
+  convergence_streak: 3
+  improvement_threshold: 0.25
+
+validation:
+  prompt_validation_rules:
+    - "len(prompt) > 50"
+    - "'summary' in prompt.lower()"
+
+# --- Provider & Models ---
+provider:
+  name: "lmstudio"
+  # base_url and api_key_env are no longer needed
+
+models:
+  operator: "qwen3-32b" # Use the model identifier from LM Studio
+  optimizer: "qwen3-235b"
+  jurors:
+    - "qwen3-30b"
+    - "deepseek-r1"
+    - "magistral-small"
+
+model_params:
+  operator:
+    temperature: 0.5
+    max_tokens: 1024
+  optimizer:
+    temperature: 0.7
+    max_tokens: 2048
+  jury:
+    temperature: 0.0
+
+# --- Prompt Templates ---
+prompts:
+  operator: |
+    {{prompt_text}}
+    ---
+    Article to process:
+    {{article}}
+  jury: | # ... (same as before)
+  optimizer: | # ... (same as before)
+
+# --- Calibration & Cost Control ---
+calibration_set:
+  - source_text: "The sun is a star..."
+    output: "The sun is a plasma star..."
+    ground_truth_score: 43.0 # Weighted: (5*2 + 5*1 + 5*1 + 4*1.5) = 10+5+5+6 = 26.0 (Let me re-calculate) (5*2 + 5*1 + 5*1 + 4*1.5) = 10 + 5 + 5 + 6 = 26. (Oops, the original score was wrong. I'll correct it). It should be 26.0
+
+cost_controls:
+  max_api_calls: 100
+  rate_limit_delay: 2

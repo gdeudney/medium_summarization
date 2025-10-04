@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses storytelling and analogies to explain complex data architecture concepts, though it could slightly improve accessibility for readers less familiar with technical jargon."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses storytelling and analogies to explain complex data architecture concepts, though it could slightly improve accessibility for readers less familiar with technical jargon."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses creative analogies to explain complex data architecture concepts, though it could slightly improve accessibility for readers less familiar with the subject matter."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses storytelling and analogies to explain complex data architecture concepts, though it could slightly improve accessibility for readers less familiar with the subject matter."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses storytelling and analogies to explain complex data architecture concepts, though it could slightly improve accessibility for readers less familiar with the subject matter."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and provides actionable advice for AI enthusiasts, but it could benefit from slightly more clarity for less technical readers and a deeper exploration of potential downsides of the hybrid approach."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and provides actionable advice for AI enthusiasts, but it could benefit from slightly more clarity for readers less familiar with technical jargon."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, offering a balanced perspective on hybrid AI strategies with practical advice, though it could benefit from slightly more technical depth or broader audience accessibility."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and provides actionable advice for AI enthusiasts, but it could benefit from slightly more clarity for readers less familiar with technical jargon or hardware specifics."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, offering a balanced perspective on hybrid AI strategies with practical advice, though it could benefit from slightly more technical depth or broader audience accessibility."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides a detailed overview of GLM-4.5's features, strengths, and limitations, but it occasionally leans too heavily on humor and metaphors, which may detract from clarity for more technical readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides detailed insights into GLM-4.5's features, training, and applications, but its informal tone and occasional overuse of metaphors may detract from its clarity for a more technical audience."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides a detailed overview of GLM-4.5's features, strengths, and limitations, but it occasionally leans too heavily on humor and metaphors, which may detract from clarity for more technical readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides a detailed overview of GLM-4.5's features, strengths, and limitations, but it occasionally leans too heavily on humor and metaphors, which may detract from clarity for more technical readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides detailed insights into GLM-4.5's features and capabilities, but its heavy use of humor and informal tone may detract from its credibility for more technical or professional audiences."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is engaging, humorous, and informative, effectively explaining the importance of LLM evaluation, but it occasionally sacrifices clarity for style and could benefit from more structured organization."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and covers key aspects of LLM evaluation with humor and clarity, but it occasionally veers into overly casual language that may detract from its professionalism and focus."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and covers key aspects of LLM evaluation with humor and clarity, but its informal tone and occasional tangents may detract from its accessibility for more formal or technical audiences."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and covers key aspects of LLM evaluation with humor and clarity, but its casual tone and occasional tangents may detract from its accessibility for more formal or technical audiences."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and uses humor effectively to explain complex concepts, but it occasionally sacrifices clarity for style and could benefit from tighter organization."
+  }
+]

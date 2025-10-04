@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts using engaging metaphors and clear comparisons, making it both informative and accessible to a broad audience."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article effectively combines engaging storytelling with clear technical explanations, offering a comprehensive comparison of Inmon and Kimball data architecture philosophies while introducing the lakehouse concept in an accessible, memorable way."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a well-structured, practical guide to hybrid AI infrastructure with clear benefits and trade-offs, though it occasionally veers into niche jargon and assumes prior technical expertise."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, blending technical details with humor and accessible analogies while addressing both strengths and limitations of GLM-4.5."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, blending technical details with accessible metaphors and humor, though minor over-reliance on analogies and missing visuals slightly temper its impact."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, covering a wide range of LLM evaluation metrics and methodologies with clear explanations and humor. While the informal tone may not suit all readers, it effectively balances technical depth with accessibility, making complex concepts approachable. Minor drawbacks include occasional over-reliance on jokes and superficial treatment of advanced topics, but these don't detract significantly from its overall quality."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": -1,
+    "reasoning": "Error in response: "
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive, engaging, and technically detailed exploration of LLM evaluation metrics and methodologies, balancing humor with practical insights. While it excels in covering diverse topics (safety, bias, intrinsic vs. extrinsic evaluation), its informal tone occasionally overshadows depth in complex areas like explainability, and some sections could benefit from tighter structure."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": -1,
+    "reasoning": "Error in response: "
+  }
+]

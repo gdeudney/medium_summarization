@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 10,
+    "reasoning": "The article masterfully blends technical depth with engaging storytelling, using vivid metaphors (Star Wars) to make complex data architecture concepts accessible, while accurately contrasting Inmon and Kimball methodologies and introducing the lakehouse as a unifying evolution—all with clear structure, authoritative sourcing, and actionable insights for practitioners."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 10,
+    "reasoning": "The article masterfully blends technical depth with engaging storytelling, using vivid pop-culture analogies to make complex data architecture concepts accessible and memorable, while maintaining accuracy, structure, and a clear narrative arc that sets up future content."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 10,
+    "reasoning": "The article masterfully blends technical depth with engaging storytelling, using vivid metaphors and pop culture references to make complex data architecture concepts accessible and memorable, while maintaining accuracy and providing clear value to the reader."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 10,
+    "reasoning": "The article masterfully blends technical depth with engaging storytelling, using vivid metaphors and pop culture references to make complex data architecture concepts accessible and memorable, while maintaining accuracy and providing actionable insights."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 10,
+    "reasoning": "The article masterfully blends technical depth with engaging storytelling, using vivid metaphors and pop culture references to make complex data architecture concepts accessible and memorable, while maintaining accuracy and providing actionable insights for practitioners."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable insights into hybrid AI architecture with a compelling narrative, real-world examples, and clear guidance—though it slightly overrelies on speculative future events and humorous asides that may distract some readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and offers practical, actionable insights into hybrid AI architecture with a compelling narrative voice, though it occasionally leans into humor that slightly undermines technical rigor and includes speculative or unverified claims (e.g., ChatGPT-5 release)."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable insights into hybrid AI architecture with a compelling narrative, though it includes minor speculative claims and informal asides that slightly detract from academic rigor."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable insights into hybrid AI architecture with a compelling narrative, real-world examples, and clear guidance—though it occasionally leans into humor that slightly undermines technical rigor and includes speculative future events (e.g., ChatGPT-5 release in 2025)."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable insights into hybrid AI architecture with a compelling narrative, real-world examples, and clear guidance—though it occasionally leans into humor that slightly undermines technical rigor and includes speculative future events (e.g., ChatGPT-5 release in 2025) as if they’ve already occurred."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is highly engaging, creatively written with vivid metaphors, technically informative, and effectively balances enthusiasm with critical analysis—making complex AI concepts accessible while honestly addressing limitations, though it occasionally leans into hyperbole and informal tone that may not suit all audiences."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is highly engaging, creatively written with vivid analogies, technically informative, and effectively balances enthusiasm with critical analysis—making complex AI concepts accessible while honestly addressing limitations, though it occasionally leans into hyperbolic flair that slightly undermines objectivity."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is highly engaging, creatively written, and effectively communicates GLM-4.5's technical innovations and practical value through vivid analogies and clear structure, while honestly addressing limitations — though it occasionally leans into excessive flair that may distract from rigor."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is highly engaging, creatively written with vivid analogies, technically informative, and effectively balances enthusiasm with critical analysis—making complex AI concepts accessible while honestly addressing limitations, though it occasionally leans into hyperbolic flair that slightly undermines objectivity."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is highly engaging, creatively written with vivid metaphors, technically informative, and effectively balances enthusiasm with critical analysis—making complex AI concepts accessible while honestly addressing limitations, though it occasionally leans into hyperbole and informal tone that may not suit all audiences."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and thoroughly covers LLM evaluation with humor, depth, and practical insights—balancing technical accuracy with accessible storytelling, though it occasionally sacrifices precision for whimsy and has one broken link."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and thoroughly covers LLM evaluation with humor, practical insights, and depth across automated metrics, human evaluation, bias, safety, and real-world applicability—though minor inconsistencies in tone and a few hyperbolic asides slightly detract from professional polish."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and thoroughly covers LLM evaluation with humor, depth, and practical insights—balancing technical accuracy with accessibility, though a few minor inconsistencies and overly whimsical asides slightly detract from professional polish."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and thoroughly covers LLM evaluation with a compelling blend of technical depth, humor, and practical insights—though minor inconsistencies in tone and a few speculative claims slightly detract from its polish."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and thoroughly covers LLM evaluation with humor, practical insights, and depth across automated metrics, human evaluation, bias, safety, and real-world applicability—though minor inconsistencies in tone and a few speculative asides slightly detract from its professional polish."
+  }
+]

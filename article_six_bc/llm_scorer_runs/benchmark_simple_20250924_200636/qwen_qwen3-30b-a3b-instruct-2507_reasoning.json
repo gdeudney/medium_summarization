@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article excels in engaging storytelling, clear technical explanation, and effective use of metaphors to demystify complex data architecture concepts, making it accessible and memorable while maintaining accuracy and depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and educational value, using a compelling Star Wars analogy to demystify complex data architecture concepts while maintaining technical accuracy and offering practical insights for readers."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article excels in engaging storytelling, clear technical explanation, and effective use of metaphor to demystify complex data architecture concepts, making it accessible and memorable while maintaining accuracy and depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article excels in engaging storytelling, clear technical explanation, and effective use of metaphors to demystify complex data architecture concepts, making it accessible and memorable while maintaining accuracy and depth."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article excels in engaging storytelling, clear technical explanation, and effective use of metaphors to demystify complex data architecture concepts, making it accessible and memorable while maintaining accuracy and depth."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, insightful advice on hybrid AI deployment with clear examples, real-world risks, and a actionable checklist, though minor improvements in technical precision and source citation could elevate it further."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable advice on hybrid AI deployment with clear examples, real-world challenges, and a thoughtful balance of technical depth and accessibility."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and offers practical, actionable advice on hybrid AI deployment with strong real-world examples, clear technical guidance, and thoughtful consideration of trade-offs like cost, privacy, and reliability."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article offers a well-structured, insightful, and practical guide to hybrid AI deployment with clear tiers, real-world examples, actionable advice, and balanced perspectives on trade-offs, making it highly valuable for technical readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article offers a well-structured, insightful, and practical guide to hybrid AI deployment with clear tiers, real-world examples, actionable advice, and balanced perspectives on trade-offs, making it highly valuable for technical readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively communicates the technical strengths of GLM-4.5 with vivid metaphors and clear explanations, while maintaining a balanced perspective by acknowledging limitations and use cases."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively communicates the technical strengths of GLM-4.5 with vivid metaphors and clear explanations, while maintaining a balanced view by acknowledging limitations and use cases."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively communicates the technical strengths of GLM-4.5 with vivid metaphors and clear explanations, while also acknowledging limitations and practical use cases, making it both informative and compelling for a broad audience."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively communicates the technical strengths of GLM-4.5 with vivid metaphors and clear explanations, while maintaining a balanced view by acknowledging limitations and target audiences."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is highly engaging, well-structured, and effectively communicates the technical strengths of GLM-4.5 with vivid metaphors and clear explanations, while maintaining a lively tone that appeals to both technical and general audiences, though minor factual precision could be improved."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and comprehensive coverage of LLM evaluation, blending technical depth with humor and relatable analogies, while thoroughly addressing metrics, methodologies, and critical aspects like safety, bias, and observability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and comprehensive coverage of LLM evaluation, blending technical depth with humor and relatable analogies, making complex topics accessible without sacrificing accuracy."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and comprehensive coverage of LLM evaluation, blending technical depth with humor and relatable analogies, while effectively guiding readers through metrics, methodologies, and real-world considerations without sacrificing accuracy or readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and comprehensive coverage of LLM evaluation, blending technical depth with humor and relatable analogies, making complex topics accessible without sacrificing accuracy or insight."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article excels in clarity, engagement, and comprehensive coverage of LLM evaluation, blending technical depth with humor and real-world relevance, though minor redundancies and occasional overuse of metaphors slightly detract from precision."
+  }
+]

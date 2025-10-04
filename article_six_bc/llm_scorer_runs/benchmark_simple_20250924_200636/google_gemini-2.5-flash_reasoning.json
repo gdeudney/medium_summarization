@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article provides a highly engaging and informative overview of data architecture philosophies, effectively using a Star Wars analogy to simplify complex concepts and set the stage for the data lakehouse."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article effectively uses an engaging analogy to explain complex data architecture concepts, making it accessible and informative, though it could benefit from slightly more technical depth for advanced readers."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article provides a highly engaging and informative overview of data architecture philosophies, effectively using a compelling narrative and clear comparisons to explain complex concepts."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article provides a highly engaging and informative overview of data architecture philosophies, effectively using a compelling narrative and clear comparisons to explain complex concepts."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article effectively uses an engaging analogy to explain complex data architecture concepts, making it accessible and informative, though it could benefit from slightly more technical depth for advanced readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful discussion on hybrid AI strategies, offering practical advice and relatable examples, though some of the 'future' dates for articles are a bit jarring."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful discussion on hybrid AI strategies, offering practical advice and relatable examples, though some of the 'future' dates for articles are a bit jarring."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful argument for a hybrid AI approach, offering practical advice and relatable examples, though some of the 'future' dates for articles are a bit jarring."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful argument for a hybrid AI approach, offering practical advice and relatable examples, though some of the 'future' dates for articles are a bit jarring."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful argument for a hybrid AI approach, offering practical advice and relatable examples, though some of the 'future' dates for articles are a bit jarring."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is well-structured, engaging, and provides a comprehensive overview of GLM-4.5, effectively using analogies and clear explanations to make complex technical details accessible."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is well-structured, engaging, and provides a comprehensive overview of GLM-4.5, effectively using analogies and clear explanations to make complex technical details accessible."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is well-structured, engaging, and provides a comprehensive overview of GLM-4.5, effectively using analogies and clear explanations to make complex technical details accessible."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is well-structured, engaging, and provides a comprehensive overview of GLM-4.5, effectively using analogies and clear explanations to make complex technical details accessible."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is well-structured, engaging, and provides a comprehensive overview of GLM-4.5, effectively using analogies and clear explanations to make complex technical details accessible."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering a wide range of metrics, methodologies, and crucial considerations with a humorous and accessible tone."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering a wide range of metrics and methodologies with clear explanations and relatable analogies."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering a wide range of metrics, methodologies, and crucial considerations with a humorous and accessible tone."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering a wide range of metrics, methodologies, and crucial considerations with a humorous and accessible tone."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering a wide range of metrics and methodologies with clear explanations and relatable analogies."
+  }
+]

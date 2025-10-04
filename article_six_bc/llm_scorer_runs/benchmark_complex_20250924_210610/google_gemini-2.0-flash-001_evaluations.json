@@ -1,0 +1,202 @@
+[
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is well-written and engaging, using a fun analogy to explain complex concepts. The structure is logical, and the depth is good, providing a solid overview of the topic. Overall, a high-quality piece.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is well-written and engaging, using a fun analogy to explain complex concepts. The structure is logical, and the depth is good, providing valuable information. Overall, a high-quality piece.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is well-written and engaging, using a fun analogy to explain complex concepts. The structure is logical, and the depth is good, providing a solid overview of the topic. Minor deductions for depth as it's an introductory piece.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is well-written and engaging, using a fun analogy to explain complex concepts. The structure is logical, and the depth is good, providing valuable information. Overall, a high-quality piece.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article is well-written and engaging, using a fun analogy to explain complex concepts. The structure is logical, and the depth is good, providing valuable information. Overall, a high-quality piece.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 7,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, presenting a balanced argument for a hybrid AI approach. It offers some insightful points about vendor lock-in and data privacy. Engagement is decent, though some sections are more technical. Overall, a solid piece, but could benefit from even greater depth and a more captivating narrative.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 7,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, presenting a balanced argument for a hybrid AI approach. It offers some insightful points regarding vendor lock-in and data privacy. However, the engagement could be improved with more compelling examples, and the depth could be increased by exploring the technical aspects in more detail. Overall, it's a solid piece but has room for improvement.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 7,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, presenting a balanced argument for a hybrid AI approach. It offers some insightful points about vendor lock-in and data privacy. Engagement is decent, though some sections are more technical. Overall, a solid piece, but could benefit from even greater depth and a more captivating narrative.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 7,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, presenting a balanced argument for a hybrid AI approach. It offers some insightful points about vendor lock-in and data privacy. Engagement is decent, though some sections are more technical. Overall, a solid piece, but could benefit from even greater depth and a more captivating narrative.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 7,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, presenting a balanced argument for a hybrid AI approach. It offers some valuable insights, though the depth could be increased with more technical details or alternative perspectives. The engagement is decent, but the writing style could be more captivating. The structure is logical, contributing to a good overall score.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, providing a good overview of GLM-4.5. The use of analogies and humor enhances engagement. While it offers some insightful details about the model's architecture and training, it could benefit from a deeper dive into specific technical aspects to increase the depth score.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, providing a good overview of GLM-4.5. The use of analogies and humor enhances engagement. While it offers some insightful details about the model's architecture and training, it could benefit from a deeper dive into specific technical aspects. The structure is logical, progressing from an introduction to technical details, limitations, and potential applications.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, providing a good overview of GLM-4.5. The use of analogies and humor enhances engagement. While it offers some insightful details about the model's architecture and training, it could benefit from a deeper dive into specific technical aspects to increase its depth.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, providing a good overview of GLM-4.5. The use of analogies and humor enhances engagement. While it offers some insightful details about the model's architecture and training, it could benefit from a deeper dive into specific technical aspects to increase the depth score.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 7,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 8,
+    "structure_score": 8,
+    "reasoning": "The article is generally clear and well-structured, providing a good overview of GLM-4.5. The use of analogies and humor enhances engagement. While it offers some insightful details about the model's architecture and training, it could benefit from a deeper dive into specific technical aspects to increase the depth score.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is engaging and provides good depth on the topic of LLM evaluation. However, the clarity and structure could be improved; the writing style, while entertaining, occasionally detracts from the core message and the organization could be tighter.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is engaging and provides good depth of information regarding LLM evaluation. However, the clarity and structure could be improved. The writing style, while entertaining, occasionally detracts from the clarity, and the organization, while logical, could benefit from tighter transitions between sections.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is engaging and provides good depth on LLM evaluation. However, the clarity and structure could be improved. The writing style, while entertaining, occasionally detracts from the clarity. The structure is generally logical, but some sections could be better organized for smoother flow.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is engaging and provides good depth on LLM evaluation. However, the clarity and structure could be improved; the writing style, while entertaining, occasionally detracts from the core message and the organization could be tighter.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 7,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article is engaging and provides decent depth into LLM evaluation. However, the clarity and structure could be improved; the writing style, while entertaining, occasionally detracts from the core message and the organization feels somewhat loose.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

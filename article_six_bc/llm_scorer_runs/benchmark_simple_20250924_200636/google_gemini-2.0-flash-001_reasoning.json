@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-written, engaging, informative, and provides a clear explanation of complex data architecture concepts using relatable analogies, making it highly valuable."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "This article is well-written, engaging, and informative, providing a clear explanation of complex data architecture concepts using relatable analogies and a compelling narrative."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is well-written, engaging, informative, and provides a clear explanation of complex data architecture concepts using relatable analogies."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "This article is well-written, engaging, informative, and provides a clear explanation of complex data architecture concepts using relatable analogies."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-written, engaging, informative, and provides a clear explanation of complex data architecture concepts using relatable analogies."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful analysis of hybrid AI strategies, offering practical advice and a clear rationale, though it could benefit from more concrete examples and data."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful analysis of hybrid AI strategies, offering practical advice and a clear rationale, though it could benefit from more concrete examples and data."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful analysis of hybrid AI strategies, offering practical advice and a clear rationale, though it could benefit from more concrete examples and data."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful analysis of the hybrid approach to AI development, balancing local and cloud resources, with practical advice and a clear explanation of the benefits and challenges."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a well-structured and insightful analysis of hybrid AI strategies, offering practical advice and a clear rationale, though it could benefit from more concrete examples and data."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of GLM-4.5, highlighting its strengths and weaknesses with clear explanations and relevant comparisons, making it informative and well-structured."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of GLM-4.5, highlighting its strengths and weaknesses with clear explanations and relevant comparisons, making it informative and well-structured."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of GLM-4.5, highlighting its strengths and weaknesses with clear explanations and relevant comparisons, making it informative and well-structured."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of GLM-4.5, highlighting its strengths and weaknesses with clear explanations and relevant examples, making it informative and well-structured."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of GLM-4.5, highlighting its strengths and weaknesses with clear explanations and relevant comparisons, making it informative and well-structured."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive overview of LLM evaluation, balancing technical depth with engaging explanations and practical examples, making it highly informative and useful."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive overview of LLM evaluation, balancing technical depth with engaging explanations and practical examples, making it highly informative and useful."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive overview of LLM evaluation, balancing technical depth with engaging explanations and practical examples, making it highly informative and useful."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive overview of LLM evaluation, balancing technical depth with engaging explanations and practical examples, making it highly informative and useful."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive overview of LLM evaluation, balancing technical depth with engaging explanations and practical examples, though it could benefit from more concise summaries of complex concepts."
+  }
+]

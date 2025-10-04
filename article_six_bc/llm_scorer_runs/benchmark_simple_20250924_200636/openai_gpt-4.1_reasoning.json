@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, using creative analogies to clearly explain complex data architecture concepts, though it could be slightly improved by providing more concrete real-world examples or case studies."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively explains complex data architecture concepts using creative analogies, though it could be slightly improved by providing more concrete real-world examples or case studies."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, using creative analogies to clearly explain complex data architecture concepts, though it could be slightly improved by including more real-world examples or visuals."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and highly informative, using creative analogies and clear explanations to make complex data architecture concepts accessible, though it could be slightly improved by including more real-world examples or case studies."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and highly informative, using creative analogies to clearly explain complex data architecture concepts, though it could be slightly improved by providing more concrete real-world examples or case studies."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is well-structured, engaging, and informative, offering practical advice and real-world examples for balancing local and cloud AI workloads, though it could be improved with more technical depth or broader perspectives on alternative solutions."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, engaging, and provides actionable advice for AI enthusiasts considering hybrid compute strategies, though it could be improved with more technical depth or broader perspectives on alternative solutions."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, providing practical advice and real-world examples for a hybrid AI setup, though it could be improved with more technical depth or broader perspectives on alternative solutions."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, providing practical advice and real-world examples for a hybrid AI setup, though it could be improved with more technical depth and clarity for less experienced readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is well-structured, informative, and engaging, providing practical advice and real-world examples for a hybrid AI setup, though it could be improved with more technical depth and clarity for less experienced readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, providing both technical depth and accessible analogies, though it could be improved with slightly more critical analysis and clarity on certain technical terms for less technical readers."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, providing both technical depth and accessible analogies, though it could be slightly improved with more critical analysis of potential weaknesses and real-world use cases."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, providing both technical depth and accessible analogies, though it could benefit from slightly more critical analysis of potential weaknesses and real-world limitations."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, informative, and accessible to both technical and non-technical readers, though it could benefit from slightly more technical depth and fewer informal asides for a perfect score."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and informative, providing both technical depth and accessible analogies, though it could be slightly improved with more critical analysis of potential weaknesses and broader context."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, effectively covering both technical and practical aspects of LLM evaluation with clear explanations and humor, though it could be slightly more concise in places for improved readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, effectively balancing technical depth with humor and clarity, though it could be slightly more concise in places to improve readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, effectively covering both technical and practical aspects of LLM evaluation with clear explanations and humor, though it could be slightly more concise in places for improved readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, effectively covering both technical and practical aspects of LLM evaluation with clear explanations and humor, though it could be slightly more concise in places for improved readability."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is comprehensive, engaging, and well-structured, effectively covering both technical and practical aspects of LLM evaluation with clear explanations and humor, though it could be slightly more concise and focused in places."
+  }
+]

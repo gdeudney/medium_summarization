@@ -1,0 +1,202 @@
+[
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative Star Wars analogies and pacing, provides deep insights into data architectures with expert comparisons, maintains strong structure with logical sections, and offers clear language despite some thematic flair, leading to a high average score.",
+    "article_id": "Data Articles 1",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement with creative Star Wars analogies that hold attention, while providing clear explanations, insightful comparisons of data architectures, and a logical structure, leading to a strong overall average.",
+    "article_id": "Data Articles 1",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure through its expert explanations, captivating Star Wars analogies, and logical flow, though clarity is slightly reduced by occasional wordiness.",
+    "article_id": "Data Articles 1",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement through its creative Star Wars analogies, offers deep insights into data architecture philosophies with expert-level detail, maintains a logical structure with seamless flow, and is generally clear though occasionally wordy, leading to a strong overall average.",
+    "article_id": "Data Articles 1",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 10,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement with its creative Star Wars analogies and humor, while providing clear explanations, insightful depth on data architectures, and a coherent structure that flows logically from historical conflict to modern resolution.",
+    "article_id": "Data Articles 1",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with concise, humorous language and logical structure; provides solid depth through practical insights and expertise on hybrid AI setups; maintains high engagement with pacing, anecdotes, and visuals; and demonstrates strong coherence with well-organized sections, resulting in a high overall average score.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 1
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure with insightful advice, humorous tone, and logical organization, though minor clarity issues like occasional awkward phrasing slightly lower that pillar's score, resulting in a strong overall average.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with concise, humorous language and logical structure; provides solid depth through practical insights and expertise on hybrid AI setups; maintains high engagement via pacing, anecdotes, and visuals; and demonstrates strong coherence with seamless flow across sections, resulting in a well-rounded overall score.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 9,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in clarity with concise, humorous language and logical structure; offers good depth with practical insights and expertise on hybrid AI setups; maintains high engagement through pacing, anecdotes, and visuals; and demonstrates strong coherence with well-organized sections, resulting in a high overall average score.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure, providing expert insights on hybrid AI setups with a logical flow and humorous elements that keep readers interested. Clarity is strong but slightly reduced by occasional tangential asides, resulting in a high overall average score of 9.",
+    "article_id": "Frankenlab_upgrade",
+    "run": 5
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement and structure with its humorous, well-organized flow, while providing solid depth and clarity through accessible explanations of complex AI concepts, resulting in a strong overall average rounded up to 9.",
+    "article_id": "GLM4.5",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 8,
+    "depth_score": 7,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in engagement and structure with its humorous tone and logical organization, while providing solid depth on GLM-4.5's features. Clarity is good but occasionally hindered by overly casual language, resulting in a strong overall average of 8.",
+    "article_id": "GLM4.5",
+    "run": 2
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure with insightful explanations, humorous analogies, and logical flow, though clarity is slightly reduced by overly casual language. Overall, it averages a strong 9 for providing valuable AI model analysis in an accessible, captivating manner.",
+    "article_id": "GLM4.5",
+    "run": 3
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure with insightful explanations, humorous analogies, and logical flow, though clarity is slightly reduced by overly casual language. Overall average rounds to 9, reflecting strong quality across pillars.",
+    "article_id": "GLM4.5",
+    "run": 4
+  },
+  {
+    "score": 9,
+    "clarity_score": 8,
+    "depth_score": 9,
+    "engagement_score": 9,
+    "structure_score": 9,
+    "reasoning": "The article excels in depth, engagement, and structure with insightful explanations, humorous analogies, and logical flow, though clarity is slightly reduced by overly casual language. Overall, it averages to a strong 9 due to its balanced quality across pillars.",
+    "article_id": "GLM4.5",
+    "run": 5
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement with its humorous and relatable analogies, provides solid depth and insights into LLM evaluation metrics, and maintains a logical structure with clear sections. Clarity is slightly reduced by informal tangents and minor typos, resulting in a strong overall average.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article achieves an overall score of 8, driven by high engagement through humor and relatable analogies, solid depth in explaining LLM evaluation metrics with expertise, and coherent structure with logical sections. Clarity is slightly reduced by informal, sometimes rambling language and minor typos, but it remains accessible.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article excels in engagement with its humorous and lively tone, holding reader attention effectively. It provides solid depth and insight into LLM evaluation metrics and methodologies, demonstrating expertise. Clarity is generally good but sometimes affected by overly casual language and minor typos, while the structure is logical with clear sections, resulting in an overall average score of 8.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 7,
+    "reasoning": "The article scores moderately on clarity due to informal language and occasional typos, but excels in depth with insightful explanations of LLM metrics. High engagement from humor keeps it interesting, while structure is logical but has some repetitions, leading to an overall average of 8.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4
+  },
+  {
+    "score": 8,
+    "clarity_score": 7,
+    "depth_score": 8,
+    "engagement_score": 9,
+    "structure_score": 8,
+    "reasoning": "The article scores an overall 8 due to its high engagement through humor and relatable examples, solid depth in explaining LLM evaluation metrics with expertise, and good structure with logical sections. However, clarity is slightly reduced by occasional rambling and overly casual tangents, preventing a perfect score across pillars.",
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5
+  }
+]

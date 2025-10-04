@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written, using engaging analogies and clear explanations to make complex concepts accessible, but it is slightly promotional in its framing of the lakehouse as a definitive resolution."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written, using engaging analogies and clear explanations to make complex data architecture concepts accessible, but it is slightly promotional in tone, which prevents a perfect score."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written, using engaging analogies and clear explanations to make complex data architecture concepts accessible, but it is slightly promotional in its framing of the lakehouse as a definitive resolution."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written, using engaging analogies and clear explanations to make complex concepts accessible, but it is slightly promotional in its framing of the lakehouse as a definitive resolution."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written, using a compelling narrative and clear analogies to explain complex concepts, but it is slightly promotional in tone, positioning the lakehouse as an inevitable solution."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is well-structured, informative, and engaging with a clear thesis and practical advice, but it contains a few minor grammatical errors and informal asides that slightly detract from its professionalism."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-structured, informative, and engaging, blending technical depth with relatable anecdotes and clear practical advice, though it could be slightly more concise in a few sections."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is well-structured, informative, and offers a practical, nuanced perspective on hybrid AI strategies, but it contains a few minor grammatical errors and informal asides that slightly detract from its professionalism."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is well-structured, informative, and offers a practical, nuanced strategy with a helpful case study and checklist, but the tone is occasionally too informal and the image placeholders are distracting."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-structured, informative, and engaging, offering a clear, practical guide to a hybrid AI strategy with specific examples and actionable advice, though it could be slightly more concise in a few sections."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, using clever analogies to explain complex concepts, but it is slightly let down by the absence of the referenced images which are crucial to its narrative flow."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, using clever analogies to explain complex concepts, but it is slightly let down by the absence of the referenced images which are crucial to its narrative flow."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, using clever analogies to explain complex concepts, but the absence of the referenced images and some overly casual asides slightly hinder its clarity and professionalism."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, using clever analogies to explain complex concepts, but it is slightly let down by an overly informal tone and a few distracting, off-topic jokes."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, using clever analogies to explain complex concepts, but the absence of the referenced images and some overly casual asides slightly detract from its professionalism."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, covering a wide range of evaluation concepts with excellent analogies, but it is slightly long-winded and could benefit from more concise explanations in some sections."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, covering a wide range of evaluation concepts with excellent analogies and a clear, practical focus, though it could benefit from a more structured presentation of some technical details."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is highly informative and engaging, successfully explaining complex LLM evaluation concepts with a unique, humorous voice, but its informal tone and occasional tangential jokes may slightly undermine its authority for a purely technical audience."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, covering a wide range of evaluation concepts with excellent analogies, but it is overly verbose and the informal tone sometimes distracts from the core technical content."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is highly engaging and informative, covering a wide range of evaluation concepts with excellent analogies, but it is overly verbose and its informal, tangential style may hinder clarity for some readers."
+  }
+]

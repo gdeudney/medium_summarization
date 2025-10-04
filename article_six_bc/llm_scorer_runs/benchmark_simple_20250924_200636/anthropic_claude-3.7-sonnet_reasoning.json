@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging storytelling, clear comparisons, and accessible analogies, while maintaining technical accuracy and providing practical insights for readers at different knowledge levels."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging storytelling, clear comparisons, and accessible metaphors, while maintaining technical accuracy and providing practical insights for readers at different knowledge levels."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging storytelling, clear comparisons, and accessible analogies, while maintaining technical accuracy and providing practical insights for readers at different knowledge levels."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging storytelling, clear comparisons, and accessible analogies, while maintaining technical accuracy and providing practical insights for readers at different knowledge levels."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article effectively explains complex data architecture concepts through engaging storytelling, clear comparisons, and accessible analogies, while maintaining technical accuracy and providing practical insights for readers at different knowledge levels."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides valuable, practical advice on balancing local and cloud AI computing with clear explanations, personal examples, and actionable recommendations, though it contains a few minor grammatical issues and some subjective humor that might not appeal to all readers."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides valuable, practical advice on balancing local and cloud AI computing with clear explanations, relevant examples, and actionable recommendations, though it occasionally uses casual language and contains a few grammatical inconsistencies."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article provides valuable, practical information about balancing local and cloud AI computing with a clear structure, engaging writing style, and helpful recommendations, though it contains a few informal asides and references to future dates that slightly diminish its professional polish."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides valuable, practical advice on balancing local and cloud AI computing with clear explanations, relevant examples, and actionable recommendations, though it occasionally uses casual language and contains a few grammatical inconsistencies."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides valuable, practical advice on balancing local and cloud AI computing with clear explanations, relevant examples, and actionable recommendations, though it occasionally uses casual language and contains a few minor formatting inconsistencies."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is well-written, engaging, and informative about GLM-4.5's capabilities with creative analogies and technical details, though it occasionally relies too heavily on casual humor and lacks some critical analysis of potential drawbacks."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article is well-written, engaging, and informative about GLM-4.5's capabilities with creative analogies and technical details, though it occasionally relies too heavily on casual humor and lacks some critical analysis of potential drawbacks."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is well-written, engaging, and informative about GLM-4.5's capabilities with creative analogies and technical details, though it occasionally relies too heavily on casual humor and lacks some critical analysis of potential drawbacks."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is well-written, engaging, and informative about GLM-4.5's capabilities with creative analogies and technical details, though it occasionally relies too heavily on casual humor and lacks some critical analysis of potential drawbacks."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is well-written, engaging, and informative about GLM-4.5's capabilities with creative analogies and technical details, though it occasionally relies too heavily on casual humor and lacks some critical analysis of potential drawbacks."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with technical depth, engaging humor, and practical insights, though it occasionally becomes overly verbose and could benefit from more concise explanations in some sections."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with comprehensive coverage of metrics and methodologies, using engaging humor and accessible analogies to make complex concepts understandable, though it occasionally becomes slightly verbose and the humor might be distracting for some readers."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with comprehensive coverage of metrics and methodologies, using engaging humor and accessible analogies to make complex concepts understandable, though it occasionally becomes slightly verbose and the humor might be distracting for some readers."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is exceptionally well-written with a perfect balance of technical depth and engaging humor, covering comprehensive evaluation metrics for LLMs while maintaining accessibility through creative analogies and a consistent, entertaining voice throughout."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article effectively explains LLM evaluation with comprehensive coverage of metrics and methodologies, using engaging humor and accessible analogies, though it occasionally becomes verbose and the informal tone might not appeal to all readers."
+  }
+]

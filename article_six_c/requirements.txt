@@ -1,0 +1,11 @@
+openai
+pyyaml
+python-dotenv
+jinja2
+numpy
+tenacity
+pydantic
+lmstudio
+os
+pathlib
+datetime

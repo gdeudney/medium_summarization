@@ -1,0 +1,122 @@
+[
+  {
+    "article_id": "Data Articles 1",
+    "run": 1,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses a creative analogy to explain complex data architecture concepts, making it accessible and informative for a broad audience."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 2,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses a Star Wars analogy to explain complex data architecture concepts, making it accessible and memorable for readers."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 3,
+    "score": -1,
+    "reasoning": "Error in response: {\n  \"score\": 9,\n  *\"reasoning\": \"  :\"# The article is engaging, well-structured, and effectively uses a Star Wars analogy to explain complex data architecture concepts, making it accessible and memorable. It provides a clear comparison between Inmon and Kimball's philosophies, highlights the strengths and weaknesses of each, and introduces the lakehouse as a modern solution, all while maintaining a consistent and creative narrative.\"\n}"
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 4,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses a Star Wars analogy to explain complex data architecture concepts, making it accessible and informative for a broad audience."
+  },
+  {
+    "article_id": "Data Articles 1",
+    "run": 5,
+    "score": 9,
+    "reasoning": "The article is engaging, well-structured, and effectively uses a creative analogy to explain complex data architecture concepts, making it accessible and informative for a broad audience."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a clear, practical guide to hybrid AI systems with useful examples and a structured approach, though it lacks deeper technical details and some sections feel a bit repetitive."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 2,
+    "score": 7,
+    "reasoning": "The article provides a clear, structured overview of hybrid AI strategies with practical examples and a checklist, but lacks credible sources for cited links and uses informal language that may reduce its professional reliability."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 3,
+    "score": 7,
+    "reasoning": "The article provides a clear and practical overview of a hybrid AI strategy, but lacks depth in technical implementation details and real-world examples beyond the author's personal experience."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 4,
+    "score": 7,
+    "reasoning": "The article provides a clear and practical overview of a hybrid AI strategy, but it lacks depth in technical details and real-world implementation examples, and contains some informal, humorous language that may reduce its credibility for a more professional audience."
+  },
+  {
+    "article_id": "Frankenlab_upgrade",
+    "run": 5,
+    "score": 7,
+    "reasoning": "The article provides a clear and practical overview of a hybrid AI strategy, but it lacks depth in technical implementation details and has some minor factual inconsistencies, such as referencing a future date (2025) in a way that feels unrealistic for the current context."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides detailed technical insights into GLM-4.5, though it occasionally uses overly dramatic language and lacks some concrete data points."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 2,
+    "score": 7,
+    "reasoning": "The article is engaging and informative with clear comparisons and technical details, but lacks concrete data sources and some technical clarity, which could affect its credibility."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 3,
+    "score": 7,
+    "reasoning": "The article is engaging and informative, using creative metaphors to explain GLM-4.5's features, but lacks depth on technical specifics and concrete comparisons with other models."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and provides detailed technical insights into GLM-4.5, though it occasionally veers into overly dramatic language and lacks some concrete data points."
+  },
+  {
+    "article_id": "GLM4.5",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article is engaging, well-structured, and provides detailed technical insights into GLM-4.5, though it occasionally uses overly casual language and hyperbolic comparisons that may detract from its professionalism."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 1,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation metrics and methodologies, with clear explanations and practical examples, though it occasionally veers into overly casual language and tangents."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 2,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation, covering key metrics, safety, and practical considerations, though it occasionally veers into overly casual language and humor that may distract from the technical content."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 3,
+    "score": 8,
+    "reasoning": "The article is engaging, informative, and covers a wide range of evaluation metrics and methodologies for LLMs, with clear explanations and relatable analogies, though it occasionally veers into overly casual language and lacks deeper technical depth on some advanced evaluation techniques."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 4,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation metrics, but its informal tone and humor may not suit all audiences."
+  },
+  {
+    "article_id": "LLM evaluation fundatmentals",
+    "run": 5,
+    "score": 8,
+    "reasoning": "The article provides a comprehensive and engaging overview of LLM evaluation metrics and methodologies, covering both technical and practical aspects with clear examples and a conversational tone."
+  }
+]
